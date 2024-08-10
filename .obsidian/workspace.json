@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_posts/2010-01-07-post-modified.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_posts/2010-01-07-post-modified.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_posts/2010-01-07-post-modified.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/about.md"
+                "file": "_posts/2010-01-07-post-modified.md"
               }
             }
           }
@@ -161,17 +161,17 @@
   },
   "active": "b19cebdd6accb052",
   "lastOpenFiles": [
+    "_posts/2010-01-07-post-standard.md",
+    "_posts/2010-01-07-post-modified.md",
     "_posts/2019-04-18-welcome-to-jekyll.md",
     "_posts/2010-03-07-post-link.md",
     "_posts/2010-02-05-post-quote.md",
     "_posts/2010-02-05-post-notice.md",
     "_posts/2010-01-08-post-chat.md",
-    "_posts/2010-01-07-post-standard.md",
-    "_posts/2010-01-07-post-modified.md",
+    "_pages/about.md",
     "_pages/year-archive.md",
     "_pages/tag-archive.md",
     "_pages/category-archive.md",
-    "_pages/about.md",
     "README for Minimal Mistakes Jekyll theme.md",
     "readme.md",
     "_pages/404.md",

@@ -8,6 +8,6 @@ title: "About"
 > 
 > ― Ray Bradbury, [Zen in the Art of Writing: Releasing the Creative Genius Within You](https://www.goodreads.com/work/quotes/2183601)
 
-I can't contain all the voices in my head so I think it's important to write what they say down. that way I can choose who wins.
+I can't contain all the voices in my head so I think it's important to write what they say down. That way I can choose who wins.
 
 That's the about page for now. Thanks for being here.
