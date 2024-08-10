@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "_pages/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "_pages/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "_pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "_pages/about.md"
               }
             }
           }
@@ -161,13 +161,25 @@
   },
   "active": "b19cebdd6accb052",
   "lastOpenFiles": [
+    "_pages/category-archive.md",
+    "_pages/tag-archive.md",
+    "_pages/year-archive.md",
+    "_posts/2010-01-07-post-modified.md",
+    "_posts/2010-01-07-post-standard.md",
+    "_posts/2010-01-08-post-chat.md",
+    "_posts/2010-02-05-post-notice.md",
+    "_posts/2010-02-05-post-quote.md",
+    "_posts/2010-03-07-post-link.md",
+    "_posts/2019-04-18-welcome-to-jekyll.md",
+    "README for Minimal Mistakes Jekyll theme.md",
+    "_pages/about.md",
+    "readme.md",
+    "_pages/404.md",
+    "assets/gifs/GraphView.gif",
+    "Animation.gif",
     "assets/gifs/GraphView-ezgif.com-optimize.gif",
     "assets/gifs/GraphView-ezgif.com-optimize.gif.crdownload",
-    "assets/gifs/GraphView.gif",
     "assets/gifs",
-    "assets/New folder",
-    "Animation.gif",
-    "readme.md",
-    "README for Minimal Mistakes Jekyll theme.md"
+    "assets/New folder"
   ]
 }
