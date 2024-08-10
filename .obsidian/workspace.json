@@ -29,53 +29,10 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "20a5298deebf004e"
+            }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "4dd78f4655369fe4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9dfd1749d821ed26",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "README.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "20a5298deebf004e"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -202,9 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9dfd1749d821ed26",
+  "active": "b19cebdd6accb052",
   "lastOpenFiles": [
-    "README for Minimal Mistakes Jekyll theme.md",
-    "README.md"
+    "assets/gifs/GraphView.gif",
+    "assets/gifs",
+    "assets/New folder",
+    "Animation.gif",
+    "README.md",
+    "README for Minimal Mistakes Jekyll theme.md"
   ]
 }
