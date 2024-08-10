@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Kelsy"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "👋 Hi, I'm Kelsy, welcome to my writing nook. Grab a marshmallow and take a seat by the fire."
   links:
 #    - label: "Website"
