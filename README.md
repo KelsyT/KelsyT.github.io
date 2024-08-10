@@ -1,27 +1,5 @@
-# Minimal Mistakes remote theme starter
+I'm Kelsy and this is my website. It's hosted on GitHub Pages and I'm using the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+The intention here is to provide a place for my digital garden outside of social media, something that I own and control like the old web.
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+I'm using [Obsidian](https://obsidian.md/) to write and edit, I recommend it as an easy to use application for note taking and general idea organizing. I like it especially because it uses markdown files which can link together. This feature can help link ideas and create a web that's perfect for a website but also has a lot of use to a writer to tie different ideas together. Check out the cool "graph view" below.
 
-Contains basic configuration to get you a site with:
-
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
