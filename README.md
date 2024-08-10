@@ -5,4 +5,4 @@ I'm using [Obsidian](https://obsidian.md/) to write and edit, I recommend it as 
 
 It also displays an interactive graph view of all your notes/links.
 
-![[GraphView.gif]]
+![GraphView-ezgif com-optimize](https://github.com/user-attachments/assets/b241463b-e8a5-46d0-a63a-fac6946f5d2f)
