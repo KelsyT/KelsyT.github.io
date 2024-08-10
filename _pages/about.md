@@ -2,4 +2,12 @@
 permalink: /about/
 title: "About"
 ---
-👋 Hi, I'm Kelsy.  I play games, take photos, repair computers, pet cats and cook. This website is all about creating a place for my writing. Here I will organize my thoughts and build my knowledge. I think it's important to write things down so you're not holding everything in your head. Especially since I forget easily. Writing also helps me build understanding and meaning through my life. So yep, that's the about page for now. Thanks for being here.
+👋 Hi, I'm Kelsy. When I'm not contentedly arguing with everyone within an arm's reach you'll find me playing games, taking photos, repairing computers, petting cats and cooking. This website will hold my brain (thought-katamari) together with the intention of building knowledge and exploring ideas. 
+
+> “We never sit anything out. We are cups, quietly and constantly being filled. The trick is knowing how to tip ourselves over and let the beautiful stuff out.”
+> 
+> ― Ray Bradbury, [Zen in the Art of Writing: Releasing the Creative Genius Within You](https://www.goodreads.com/work/quotes/2183601)
+
+I can't contain all the voices in my head so I think it's important to write what they say down. that way I can choose who wins.
+
+That's the about page for now. Thanks for being here.
