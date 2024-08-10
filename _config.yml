@@ -59,7 +59,7 @@ author:
   name   : "Kelsy"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "👋 Hi, I'm Kelsy, welcome to my writing nook. Grab a marshmallow and take a seat by the fire."
-#  links:
+  links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      url: "https://"
