@@ -22,7 +22,7 @@ What you find compelling in a game says something about you. Something that was 
 
 This very notion of varied preferences is why reviewing and discussing games is inherently subjective. If you're aware of your current preferences you'll be a lot less likely to slip into unconstructive criticism or a blindness to the insight a game offers. I hope and dream to see and appreciate the insight within my favorite games, and even some games that I don't enjoy.
 
-I want to explore my own shifting desires and preferences in gaming, how they've changed over time, and what I look forward to seeing in future games.
+%%I want to explore my own shifting desires and preferences in gaming, how they've changed over time, and what I look forward to seeing in future games.%%
 
 I'm going to start with some ubiquitous methods that game developers use to push players in the intended direction, methods I'll be calling extrinsic motivators.
 
