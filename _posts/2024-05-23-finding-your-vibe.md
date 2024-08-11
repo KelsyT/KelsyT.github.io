@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T20:00
-date: 2024-08-11T10:19
+date: 2024-08-11T10:26
 title: finding your vibe
 categories:
   - blog
@@ -15,11 +15,13 @@ My dude, and I can call you my dude, right? Well, after searching high and low, 
 
 I play them for the *vibes*. I think we all do. So what's your vibe? Today, I'm trying to answer that question for myself. So much to unpack here.
 
-#### Extrinsic motivation doesn't motivate me.
+#### How we talk about games matters
 
 What you find compelling in a game says something about you. Something that was once rewarding you may later find empty and hollow. And what one player finds enjoyable, another may find utterly frustrating. It's these shifting desires within players I want to explore first. 
 
 This very notion of varied preferences is why reviewing and discussing games is inherently subjective. If you're aware of your current preferences you'll be a lot less likely to slip into unconstructive criticism or a blindness to the insight a game offers. I wish to see and appreciate the insight within my favorite games, and even some games that I don't enjoy.
+
+It's easy to find someone hating on a game. It's harder to express how the interplay of mechanics within a game coalesce into something great than the sum of their parts. If you can get a clear picture of who the developers were making their game for (often the cited audience within "developers of integrity" are themselves), you can more easily find the string of intention throughout the choices the developers made.
 
 I want to explore my own shifting desires and preferences in gaming, how they've changed over time, and what I look forward to seeing in future games.
 
