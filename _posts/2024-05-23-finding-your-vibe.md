@@ -16,7 +16,9 @@ I play them for the *vibes*. I think we all do. So what's your vibe? Today, I'm 
 
 #### Extrinsic motivation doesn't motivate me.
 
-The kind of game you find enjoyable says something about who you are in any given moment. What feels rewarding now can turn empty and hollow later in life. And what one player finds enjoyable, another may find utterly frustrating. It's these shifting desires within players I want to explore. I'm going to start with some ubiquitous methods that game developers use to push players in the intended direction, methods I'll be calling extrinsic motivators.
+The kind of game you find enjoyable says something about who you are in any given moment. What feels rewarding now can turn empty and hollow later in life. And what one player finds enjoyable, another may find utterly frustrating. It's these shifting desires within players I want to explore. 
+
+I'm going to start with some ubiquitous methods that game developers use to push players in the intended direction, methods I'll be calling extrinsic motivators.
 
 I used to spend hours playing games like Borderlands, chasing after the next procedurally generated loot drop, hoping to find the next best gun. I spent a lot of time reading user interfaces designed to show me how my current weapon compared to the loot on the floor in front of me.
 
