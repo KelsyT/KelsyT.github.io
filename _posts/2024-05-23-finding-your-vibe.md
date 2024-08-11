@@ -10,6 +10,8 @@ date: "[[2024-05-23]]"
 ![1000_F_537980864_xHE4dzX6BDQdEvj4nsiiRIHXa8Dl5KfZ](https://github.com/user-attachments/assets/cb99801f-f022-431c-8a06-8b65a0bb9ab6)
 
 
+↓ this is very much work in progresso soup
+
 It's all about the vibes, man. Between [Noah Caldwell Gervais](https://www.youtube.com/@broadcaststsatic), [Matthewmatosis](https://www.youtube.com/@Matthewmatosis) and [MrBtongue](https://www.youtube.com/@MrBtongue) (and no doubt countless others), I'm beginning to have an awakening about why people play games. Or at least why *I* play games.
 
 I play them for the *vibes*. I think we all do. So what's your vibe? Today, I'm trying to answer that question for myself. So much to unpack here.
@@ -19,6 +21,8 @@ I play them for the *vibes*. I think we all do. So what's your vibe? Today, I'm 
 What you find compelling in a game says something about you. Something that was once rewarding you may later find empty and hollow. And what one player finds enjoyable, another may find utterly frustrating. It's these shifting desires within players I want to explore. 
 
 This very notion of varied preferences is why reviewing and discussing games is inherently subjective. If you're aware of your current preferences you'll be a lot less likely to slip into unconstructive criticism or a blindness to the insight a game offers.
+
+I hope and dream to see and appreciate the insight within my favorite games, and even some games that I don't enjoy.
 
 Here I want to explore my own shifting desires and preferences in gaming, how they've changed over time, and what I look forward to seeing in future games.
 
