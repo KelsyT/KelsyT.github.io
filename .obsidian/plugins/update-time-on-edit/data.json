@@ -1,7 +1,7 @@
 {
   "dateFormat": "yyyy-MM-dd'T'HH:mm",
   "enableCreateTime": true,
-  "headerUpdated": "updated",
+  "headerUpdated": "date",
   "headerCreated": "created",
   "minMinutesBetweenSaves": 1,
   "ignoreGlobalFolder": [
@@ -10,6 +10,7 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "_drafts/2010-01-07-post-standard 1.md": "aa7bae1479b8574c8e928e2b2f281192f52b170140da64c5b10adf287280b985"
+    "_drafts/2010-01-07-post-standard 1.md": "aa7bae1479b8574c8e928e2b2f281192f52b170140da64c5b10adf287280b985",
+    "template-posts/2010-01-07-post-standard.md": "4ccaa3415d1ff7af35d662f589a503999e254b8fe32bf1cb6fe053eed47acaca"
   }
 }
