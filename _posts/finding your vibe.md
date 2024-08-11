@@ -6,7 +6,7 @@ updated: 2024-05-23T19:22
 
 ![[1000_F_537980864_xHE4dzX6BDQdEvj4nsiiRIHXa8Dl5KfZ.jpg | 600]]
 
-It's all about the vibes, man. Between Noah Caldwell Gervais, Matthewmatosis and MrBtongue (and no doubt countless others), I'm beginning to have an awakening about why people play games. Or at least why *I* play games. ~~at this point in my life, being nearly 29 years old.~~ 
+It's all about the vibes, man. Between [Noah Caldwell Gervais](https://www.youtube.com/@broadcaststsatic), [Matthewmatosis](https://www.youtube.com/@Matthewmatosis) and [MrBtongue](https://www.youtube.com/@MrBtongue) (and no doubt countless others), I'm beginning to have an awakening about why people play games. Or at least why *I* play games.
 
 I play them for the *vibes*. I think we all do. So what's your vibe? Today, I'm trying to answer that question for myself. So much to unpack here.
 
