@@ -1,0 +1,15 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [
+    "_data"
+  ],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "_drafts/2010-01-07-post-standard 1.md": "aa7bae1479b8574c8e928e2b2f281192f52b170140da64c5b10adf287280b985"
+  }
+}

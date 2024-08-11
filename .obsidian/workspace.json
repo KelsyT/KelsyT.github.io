@@ -36,8 +36,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53984c1b031de675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/2010-01-07-post-standard 1.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/2010-01-07-post-standard 1.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/2010-01-07-post-standard 1.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -165,13 +177,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50fc87a5c4a59995",
+  "active": "53984c1b031de675",
   "lastOpenFiles": [
-    "_drafts",
-    "template-posts/2010-01-07-post-standard.md",
     "_drafts/2010-01-07-post-standard 1.md",
-    "template-posts/2019-04-18-welcome-to-jekyll.md",
+    "Untitled.md",
+    "template-posts/2010-01-07-post-standard.md",
     "_posts/2024-05-23-finding-your-vibe.md",
+    "_drafts",
+    "template-posts/2019-04-18-welcome-to-jekyll.md",
     "_pages/about.md",
     "conflict-files-obsidian-git.md",
     "_posts/2019-04-18-template-post.md",
