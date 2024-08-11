@@ -4,6 +4,7 @@ updated: 2024-05-23T19:22
 title: finding your vibe
 categories:
   - blog
+date: "[[2024-05-23]]"
 ---
 #### finding your vibe
 
