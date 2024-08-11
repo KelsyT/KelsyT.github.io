@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 ---
-👋 Hi, I'm Kelsy. When I'm not contentedly arguing with everyone within an arm's reach you'll find me playing games, taking photos, repairing computers, petting cats and cooking. This website will hold my brain (thought-katamari) together with the intention of exploring ideas and building knowledge.
+When I'm not contentedly arguing with everyone within an arm's reach you'll find me playing games, taking photos, repairing computers, petting cats and cooking. This website will hold my brain (thought-katamari) together with the intention of exploring ideas and building knowledge.
 
 > “We never sit anything out. We are cups, quietly and constantly being filled. The trick is knowing how to tip ourselves over and let the beautiful stuff out.”
 > 
