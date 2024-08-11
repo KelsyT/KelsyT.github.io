@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "_drafts/draft.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "_posts/2024-05-23-finding-your-vibe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "_posts/2024-05-23-finding-your-vibe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "_posts/2024-05-23-finding-your-vibe.md"
               }
             }
           }
@@ -177,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53984c1b031de675",
+  "active": "b19cebdd6accb052",
   "lastOpenFiles": [
+    "_drafts/draft.md",
     "_drafts/2010-01-07-post-standard 1.md",
-    "Untitled.md",
     "template-posts/2010-01-07-post-standard.md",
     "_posts/2024-05-23-finding-your-vibe.md",
     "_drafts",
