@@ -1,6 +1,9 @@
 ---
 created: 2024-05-09T20:00
 updated: 2024-05-23T19:22
+title: finding your vibe
+categories:
+  - blog
 ---
 #### finding your vibe
 
