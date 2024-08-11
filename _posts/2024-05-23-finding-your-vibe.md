@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T20:00
-date: 2024-08-11T10:47
+date: 2024-08-11T10:50
 title: finding your vibe
 categories:
   - blog
@@ -23,7 +23,9 @@ This very notion of varied preferences is why reviewing and discussing games is 
 
 It's easy to express hate on a game because it's easy to bring in expectations. If a new game doesn't meet these, it's hard not to feel disappointed, or if the new game reminds you of a game you previously disliked, it's easy to conflate the two games regardless of actual similarity.
 
-Finding what the developers intended is more difficult. It takes patience and understanding from an empathetic perspective. Few seem to take the time to nail down the interplay of systems within a game to find what coalesces into something greater than the sum of their parts. To quote MrBtongue "the *Gesamtkunstwerk*, which means "total work of art", the blend of Presentation, Story and Gameplay in the context of video games." If you can get a clear picture of who the developers were making their game for (often the cited audience within "developers of integrity" are themselves), you can more easily find the string of intention throughout the choices the developers made.
+Finding what the developers intended is more difficult. It takes patience and understanding from an empathetic perspective. Few seem to take the time to nail down the interplay of systems within a game to find what coalesces into something greater than the sum of their parts. You know, the *soul* of the game. That *vibe* you get from playing it. MrBtongue used the word *Gesamtkunstwerk*, which means "total work of art". In the context of games it means the blend of Presentation, Story and Gameplay, again, the *soul* of the game. 
+
+If you can get a clear picture of who the developers were making their game for (often the cited audience within "developers of integrity" are themselves), you can more easily find the string of intention throughout the choices the developers made.
 
 I want to explore my own shifting desires and preferences in gaming, how they've changed over time, and what I look forward to seeing in future games.
 
