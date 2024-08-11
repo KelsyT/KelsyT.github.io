@@ -7,7 +7,9 @@ categories:
 date: "[[2024-05-23]]"
 ---
 
-![[[1000_F_537980864_xHE4dzX6BDQdEvj4nsiiRIHXa8Dl5KfZ.jpg](https://github.com/KelsyT/KelsyT.github.io/blob/master/assets/images/finding%20your%20vibe/1000_F_537980864_xHE4dzX6BDQdEvj4nsiiRIHXa8Dl5KfZ.jpg "1000_F_537980864_xHE4dzX6BDQdEvj4nsiiRIHXa8Dl5KfZ.jpg"
+![[https://raw.githubusercontent.com/KelsyT/KelsyT.github.io/master/assets/images/finding%20your%20vibe/1000_F_537980864_xHE4dzX6BDQdEvj4nsiiRIHXa8Dl5KfZ.jpg]]
+
+
 
 It's all about the vibes, man. Between [Noah Caldwell Gervais](https://www.youtube.com/@broadcaststsatic), [Matthewmatosis](https://www.youtube.com/@Matthewmatosis) and [MrBtongue](https://www.youtube.com/@MrBtongue) (and no doubt countless others), I'm beginning to have an awakening about why people play games. Or at least why *I* play games.
 

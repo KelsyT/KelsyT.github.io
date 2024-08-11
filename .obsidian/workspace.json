@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-23-finding-your-vibe.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-23-finding-your-vibe.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-23-finding-your-vibe.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-23-finding-your-vibe.md"
+                "file": "README.md"
               }
             }
           }
@@ -173,8 +173,19 @@
   },
   "active": "1fadb856ccc6c44e",
   "lastOpenFiles": [
-    "_posts/2019-04-18-template-post.md",
     "_posts/2024-05-23-finding-your-vibe.md",
+    "_posts/2019-04-18-template-post.md",
+    "_pages/about.md",
+    "_pages/year-archive.md",
+    "_pages/tag-archive.md",
+    "_pages/category-archive.md",
+    "template-posts/2019-04-18-welcome-to-jekyll.md",
+    "template-posts/2010-01-07-post-standard.md",
+    "template-posts/2010-01-08-post-chat.md",
+    "template-posts/2010-02-05-post-quote.md",
+    "template-posts/2010-02-05-post-notice.md",
+    "template-posts/2010-01-07-post-modified.md",
+    "template-posts/2010-03-07-post-link.md",
     "conflict-files-obsidian-git.md",
     "assets/images/finding your vibe/steamuserimages-a.akamaihd.jpg",
     "assets/images/finding your vibe/red-dead-redemption-2-map.jpg.webp",
@@ -187,20 +198,9 @@
     "_posts/finding your vibe/finding your vibe.md",
     "_posts/finding your vibe/1000_F_537980864_xHE4dzX6BDQdEvj4nsiiRIHXa8Dl5KfZ.jpg",
     "_posts/finding your vibe",
-    "template-posts/2010-03-07-post-link.md",
-    "_pages/about.md",
-    "_pages/category-archive.md",
     "assets/images/bio-photo.png",
     "assets/images/bio-photo-2.png",
-    "template-posts/2019-04-18-welcome-to-jekyll.md",
-    "template-posts/2010-01-07-post-modified.md",
-    "template-posts/2010-02-05-post-notice.md",
-    "template-posts/2010-02-05-post-quote.md",
-    "template-posts/2010-01-08-post-chat.md",
-    "template-posts/2010-01-07-post-standard.md",
     "template-posts",
-    "_pages/year-archive.md",
-    "_pages/tag-archive.md",
     "README for Minimal Mistakes Jekyll theme.md",
     "readme.md",
     "_pages/404.md",
