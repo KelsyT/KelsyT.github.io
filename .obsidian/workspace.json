@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "57bf810d6295ba6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0b0d1eb7ea925af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/2010-01-07-post-standard 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-23-finding-your-vibe.md",
+                "file": "_drafts/2010-01-07-post-standard 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-23-finding-your-vibe.md",
+                "file": "_drafts/2010-01-07-post-standard 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-23-finding-your-vibe.md"
+                "file": "_drafts/2010-01-07-post-standard 1.md"
               }
             }
           }
@@ -147,11 +165,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b19cebdd6accb052",
+  "active": "50fc87a5c4a59995",
   "lastOpenFiles": [
+    "_drafts",
+    "template-posts/2010-01-07-post-standard.md",
+    "_drafts/2010-01-07-post-standard 1.md",
+    "template-posts/2019-04-18-welcome-to-jekyll.md",
+    "_posts/2024-05-23-finding-your-vibe.md",
     "_pages/about.md",
     "conflict-files-obsidian-git.md",
-    "_posts/2024-05-23-finding-your-vibe.md",
     "_posts/2019-04-18-template-post.md",
     "assets/images/finding your vibe/steamuserimages-a.akamaihd.jpg",
     "assets/images/finding your vibe/red-dead-redemption-2-map.jpg.webp",
@@ -166,13 +188,11 @@
     "assets/images/bio-photo-1.png",
     "assets/images/bio-photo-tempplate.jpg",
     "assets/images/OuterWildsCampfireSqaure.png",
-    "template-posts/2019-04-18-welcome-to-jekyll.md",
     "template-posts/2010-03-07-post-link.md",
     "template-posts/2010-01-07-post-modified.md",
     "template-posts/2010-02-05-post-notice.md",
     "template-posts/2010-02-05-post-quote.md",
     "template-posts/2010-01-08-post-chat.md",
-    "template-posts/2010-01-07-post-standard.md",
     "template-posts",
     "_pages/year-archive.md",
     "_pages/tag-archive.md",
