@@ -24,7 +24,7 @@ I used to spend hours playing games like Borderlands, chasing after the next pro
 
 ![steamuserimages-a akamaihd](https://github.com/user-attachments/assets/1f30c4fb-c24c-4d9f-9344-c8bcfceb3eab)
 
-Tastes change, and as I've gown up I've found far less enjoyment from extrinsic motivators such as leveling up, unlocking achievements, or checking off tasks from a list. I don't think any of these are inherently *bad*, but they do not motivate me to continue playing. They distract more than they immerse, and when used overwhelmingly, I feel apathy towards the world. 
+Tastes change, and as I've gown up I've found far less enjoyment from extrinsic motivators such as leveling up, unlocking achievements, or checking off tasks from a list. I don't think any of these are inherently *bad*, but they don't motivate me to continue playing. They distract more than they immerse, and when used overwhelmingly, I feel apathy towards the world. 
 
 Many games use these extrinsic motivators because they work. They worked on me, and they work on many others. In fact, I still think they work on me if given the back seat to the elements that do motivate me, but we'll get to those later. Games like Diablo and Borderlands are called Action RPG's, a genre defined by an emphasis on the statistical progression of the players attributes. The problem lies when the extrinsic motivators *undermine* the *Gesamtkunstwerk*, which means "total work of art", the blend of Presentation, Story and Gameplay in the context of video games. 
 
