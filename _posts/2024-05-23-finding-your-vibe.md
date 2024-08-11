@@ -7,8 +7,7 @@ categories:
 date: "[[2024-05-23]]"
 ---
 
-![[https://raw.githubusercontent.com/KelsyT/KelsyT.github.io/master/assets/images/finding%20your%20vibe/1000_F_537980864_xHE4dzX6BDQdEvj4nsiiRIHXa8Dl5KfZ.jpg]]
-
+![1000_F_537980864_xHE4dzX6BDQdEvj4nsiiRIHXa8Dl5KfZ](https://github.com/user-attachments/assets/cb99801f-f022-431c-8a06-8b65a0bb9ab6)
 
 
 It's all about the vibes, man. Between [Noah Caldwell Gervais](https://www.youtube.com/@broadcaststsatic), [Matthewmatosis](https://www.youtube.com/@Matthewmatosis) and [MrBtongue](https://www.youtube.com/@MrBtongue) (and no doubt countless others), I'm beginning to have an awakening about why people play games. Or at least why *I* play games.
@@ -21,7 +20,7 @@ The kind of game you find enjoyable says something about who you are in any give
 
 I used to spend hours playing games like Borderlands, chasing after the next procedurally generated loot drop, hoping to find the next best gun. I spent a lot of time reading user interfaces designed to show me how my current weapon compared to the loot on the floor in front of me.
 
-![[steamuserimages-a.akamaihd.jpg | 500]]
+![steamuserimages-a akamaihd](https://github.com/user-attachments/assets/1f30c4fb-c24c-4d9f-9344-c8bcfceb3eab)
 
 Tastes change, and as I've gown up I've found far less enjoyment from extrinsic motivators such as leveling up, unlocking achievements, or checking off tasks from a list. I don't think any of these are inherently *bad*, but they do not motivate me to continue playing. They distract more than they immerse, and when used overwhelmingly, I feel apathy towards the world. 
 
@@ -39,7 +38,7 @@ I welcome user interfaces that relieve the need for keeping track of clues or ot
 
 The extrinsic motivators I mentioned often accumulate to a feeling of apathy and deprive my imagination from blossoming in the world in front of me. Nothing collapses a huge open world like seeing everything that can be done consolidated to a list of possible activities.
 
-![[red-dead-redemption-2-map.jpg | 600]]
+![red-dead-redemption-2-map](https://github.com/user-attachments/assets/38729570-1ed2-4481-9de3-d02085b9ccb0)
 
 I feel little to no joy from numbers going up, unlocking achievements, counting kills, leveling up or checking off tasks on lists. While many of these elements may exist for clear communication to the player, these often accumulate to a feeling apathy and deprive my imagination from blossoming in the world in front of me. Nothing collapses a huge open world like seeing everything that can be done consolidated to a list of possible activities. It turns discovery into a chore.
 
