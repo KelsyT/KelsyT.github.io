@@ -1,11 +1,11 @@
 ---
 created: 2024-05-09T20:00
-date: 2024-08-11T10:50
+date: 2024-08-11T15:47
 title: finding your vibe
 categories:
   - blog
 ---
-
+  
 ![1000_F_537980864_xHE4dzX6BDQdEvj4nsiiRIHXa8Dl5KfZ](https://github.com/user-attachments/assets/cb99801f-f022-431c-8a06-8b65a0bb9ab6)
 
 
