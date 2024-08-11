@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template-posts/2019-04-18-welcome-to-jekyll.md",
+                "file": "_posts/2024-05-23-finding-your-vibe.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template-posts/2019-04-18-welcome-to-jekyll.md",
+                "file": "_posts/2024-05-23-finding-your-vibe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template-posts/2019-04-18-welcome-to-jekyll.md",
+                "file": "_posts/2024-05-23-finding-your-vibe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template-posts/2019-04-18-welcome-to-jekyll.md"
+                "file": "_posts/2024-05-23-finding-your-vibe.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "1fadb856ccc6c44e",
   "lastOpenFiles": [
+    "template-posts/2019-04-18-welcome-to-jekyll.md",
     "_posts/2024-05-23-finding-your-vibe.md",
     "_drafts",
     "_posts/2019-04-18-template-post.md",
@@ -181,7 +182,6 @@
     "_pages/year-archive.md",
     "_pages/tag-archive.md",
     "_pages/category-archive.md",
-    "template-posts/2019-04-18-welcome-to-jekyll.md",
     "template-posts/2010-01-07-post-standard.md",
     "template-posts/2010-01-08-post-chat.md",
     "template-posts/2010-02-05-post-quote.md",
