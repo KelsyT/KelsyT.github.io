@@ -16,7 +16,9 @@ I play them for the *vibes*. I think we all do. So what's your vibe? Today, I'm 
 
 #### Extrinsic motivation doesn't motivate me.
 
-The kind of game you find enjoyable says something about who you are in any given moment. What feels rewarding now can turn empty and hollow later in life. And what one player finds enjoyable, another may find utterly frustrating. It's these shifting desires within players I want to explore. 
+What you find compelling in a game says something about you. Something that was once rewarding you may later find empty and hollow. And what one player finds enjoyable, another may find utterly frustrating. It's these shifting desires within players I want to explore. 
+
+This very notion is why game reviews are inherently subjective
 
 I'm going to start with some ubiquitous methods that game developers use to push players in the intended direction, methods I'll be calling extrinsic motivators.
 
@@ -45,6 +47,8 @@ The extrinsic motivators I mentioned often accumulate to a feeling of apathy and
 I feel little to no joy from numbers going up, unlocking achievements, counting kills, leveling up or checking off tasks on lists. While many of these elements may exist for clear communication to the player, these often accumulate to a feeling apathy and deprive my imagination from blossoming in the world in front of me. Nothing collapses a huge open world like seeing everything that can be done consolidated to a list of possible activities. It turns discovery into a chore.
 
 #### Discovery, anticipation and other fleeting intrinsic motivation
+
+Tastes change, and as I've gown up I've found far less enjoyment from extrinsic motivators such as leveling up, unlocking achievements, or checking off tasks from a list. I don't think any of these motivators are inherently *bad*, but they don't motivate me to continue playing. They distract more than they immerse, and when presented overwhelmingly, they undermine my desire to explore the world. Instead of slowly uncovering a mystery through exploration, each breadcrumb has been neatly organized into a string to follow.
 
 Unfolding the layers of the world and it's characters are reward enough.
 
