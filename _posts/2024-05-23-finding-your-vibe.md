@@ -12,19 +12,17 @@ date: "[[2024-05-23]]"
 
 ↓ this is very much work in progresso soup
 
-My dude, and I can call you dude, right? It's all about the vibes, man. Between [Noah Caldwell Gervais](https://www.youtube.com/@broadcaststsatic), [Matthewmatosis](https://www.youtube.com/@Matthewmatosis) and [MrBtongue](https://www.youtube.com/@MrBtongue) (and no doubt countless others), I'm beginning to have an awakening about why people play games. Or at least why *I* play games.
+My dude, and I can call you my dude, right? Well, after searching high and low, I can say with certainty that it is *all about the vibes*, dude. Between [Noah Caldwell Gervais](https://www.youtube.com/@broadcaststsatic), [Matthewmatosis](https://www.youtube.com/@Matthewmatosis) and [MrBtongue](https://www.youtube.com/@MrBtongue) (and no doubt countless others deep within my subconscious), I'm beginning to have an awakening about why people play games. Or at least why *I* play games.
 
 I play them for the *vibes*. I think we all do. So what's your vibe? Today, I'm trying to answer that question for myself. So much to unpack here.
 
 #### Extrinsic motivation doesn't motivate me.
 
-What you find compelling in a game says something about you. Something that was once rewarding you may later find empty and hollow. And what one player finds enjoyable, another may find utterly frustrating. It's these shifting desires within players I want to explore. 
+What you find compelling in a game says something about you. Something that was once rewarding you may later find empty and hollow. And what one player finds enjoyable, another may find utterly frustrating. It's these shifting desires within players I want to explore first. 
 
-This very notion of varied preferences is why reviewing and discussing games is inherently subjective. If you're aware of your current preferences you'll be a lot less likely to slip into unconstructive criticism or a blindness to the insight a game offers.
+This very notion of varied preferences is why reviewing and discussing games is inherently subjective. If you're aware of your current preferences you'll be a lot less likely to slip into unconstructive criticism or a blindness to the insight a game offers. I hope and dream to see and appreciate the insight within my favorite games, and even some games that I don't enjoy.
 
-I hope and dream to see and appreciate the insight within my favorite games, and even some games that I don't enjoy.
-
-Here I want to explore my own shifting desires and preferences in gaming, how they've changed over time, and what I look forward to seeing in future games.
+I want to explore my own shifting desires and preferences in gaming, how they've changed over time, and what I look forward to seeing in future games.
 
 I'm going to start with some ubiquitous methods that game developers use to push players in the intended direction, methods I'll be calling extrinsic motivators.
 
