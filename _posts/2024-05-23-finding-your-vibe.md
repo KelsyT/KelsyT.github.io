@@ -1,10 +1,9 @@
 ---
 created: 2024-05-09T20:00
-updated: 2024-05-23T19:22
+date: 2024-08-11T10:19
 title: finding your vibe
 categories:
   - blog
-date: "[[2024-05-23]]"
 ---
 
 ![1000_F_537980864_xHE4dzX6BDQdEvj4nsiiRIHXa8Dl5KfZ](https://github.com/user-attachments/assets/cb99801f-f022-431c-8a06-8b65a0bb9ab6)

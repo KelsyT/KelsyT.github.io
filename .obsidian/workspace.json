@@ -6,6 +6,7 @@
       {
         "id": "eb7c1907018a07ec",
         "type": "tabs",
+        "dimension": 60.43859649122807,
         "children": [
           {
             "id": "b19cebdd6accb052",
@@ -24,6 +25,7 @@
       {
         "id": "57bf810d6295ba6c",
         "type": "tabs",
+        "dimension": 39.56140350877193,
         "children": [
           {
             "id": "b0b0d1eb7ea925af",
@@ -100,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -179,10 +182,10 @@
   },
   "active": "53984c1b031de675",
   "lastOpenFiles": [
-    "_drafts/2010-01-07-post-standard 1.md",
-    "_drafts/draft.md",
     "_posts/2024-05-23-finding-your-vibe.md",
     "template-posts/2010-01-07-post-standard.md",
+    "_drafts/2010-01-07-post-standard 1.md",
+    "_drafts/draft.md",
     "_drafts",
     "template-posts/2019-04-18-welcome-to-jekyll.md",
     "_pages/about.md",
