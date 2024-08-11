@@ -12,7 +12,7 @@ date: "[[2024-05-23]]"
 
 ↓ this is very much work in progresso soup
 
-It's all about the vibes, man. Between [Noah Caldwell Gervais](https://www.youtube.com/@broadcaststsatic), [Matthewmatosis](https://www.youtube.com/@Matthewmatosis) and [MrBtongue](https://www.youtube.com/@MrBtongue) (and no doubt countless others), I'm beginning to have an awakening about why people play games. Or at least why *I* play games.
+My dude, and I can call you dude, right? It's all about the vibes, man. Between [Noah Caldwell Gervais](https://www.youtube.com/@broadcaststsatic), [Matthewmatosis](https://www.youtube.com/@Matthewmatosis) and [MrBtongue](https://www.youtube.com/@MrBtongue) (and no doubt countless others), I'm beginning to have an awakening about why people play games. Or at least why *I* play games.
 
 I play them for the *vibes*. I think we all do. So what's your vibe? Today, I'm trying to answer that question for myself. So much to unpack here.
 
