@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T20:00
-date: 2024-08-11T19:05
+date: 2024-08-11T19:25
 title: finding your vibe
 categories:
   - blog
@@ -10,6 +10,8 @@ categories:
 
 
 ↓ this is very much work in progresso soup
+
+writing is great because it allows me to bully my own thoughts
 
 My dude, and I can call you my dude, right? Well, after searching high and low, I can say with certainty that it is *all about the vibes*, dude. Between [Noah Caldwell Gervais](https://www.youtube.com/@broadcaststsatic), [Matthewmatosis](https://www.youtube.com/@Matthewmatosis) and [MrBtongue](https://www.youtube.com/@MrBtongue) (and no doubt countless others deep within my subconscious), I'm beginning to have an awakening about why people play games. Or at least why *I* play games.
 
