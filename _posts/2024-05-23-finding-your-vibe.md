@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T20:00
-date: 2024-08-11T17:50
+date: 2024-08-11T17:54
 title: finding your vibe
 categories:
   - blog
@@ -19,7 +19,7 @@ I play them for the *vibes*. I think we all do. So what's your vibe? Today, I'm 
 
 What you find compelling in a game says something about you. Something you once found rewarding you may later find empty and hollow. And what one player finds enjoyable, another may find utterly frustrating. It's these shifting desires within players I want to explore first. 
 
-This notion of bias, varied preferences is why reviewing and discussing games is inherently subjective. If you're aware of your own lenses and how they distort what you see, you'll be a lot less likely to slip into unconstructive criticism or a blindness to the insight a game offers. I wish to see and appreciate the insight within my favorite games, and even some games that I don't enjoy.
+Bias is why reviewing and discussing games is inherently subjective. If you're aware of your own lenses and how they distort what you see, you'll be a lot less likely to slip into unconstructive criticism or a blindness to the insight a game offers. I wish to see and appreciate the insight within my favorite games, and even some games that I don't enjoy.
 
 It's easy to express hate on a game because it's easy to bring in expectations. If a new game doesn't meet these, it's hard not to feel disappointed, or if the new game reminds you of a game you previously disliked, it's easy to conflate the two games regardless of actual similarity.
 
