@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T20:00
-date: 2024-08-11T18:41
+date: 2024-08-11T18:50
 title: finding your vibe
 categories:
   - blog
@@ -81,3 +81,8 @@ In a game, I am the one who expects in games.
 #### Reminder: Vibes are just atmosphere bud
 
 I realize vibes are the cozier way to describe atmosphere. And I've always loved "atmospheric" games, whatever that means. Everyone has an ideal atmosphere, and what's most fun is discovering a new favorite. One that feels uncannily familiar, but as you unfold it's layers you find details that make it alien to you, widening the gap away from what you know and subverting your expectations, but only enough to keep you hooked. That's the carrot that guides me in mystery games. 
+
+content as a reward
+
+there are games where your choices determine *which* pieces of content you experience, and there are games where your choices determine how you *get* to the next piece of content.
+
