@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T20:00
-date: 2024-08-11T18:58
+date: 2024-08-11T19:05
 title: finding your vibe
 categories:
   - blog
@@ -39,7 +39,7 @@ I used to spend hours playing games like Borderlands when I was a teenager. I'd 
 
 These extrinsic motivators are everywhere because they succeed at increasing player retention. I can recall being pulled along the looter shooter string in Borderlands. I enjoyed the world and inhabitants of the game, but it was the curiosity of which gun was inside the next chest that hooked me. I find these motivators still have a chance to sink their teeth in me if given the back seat to the other motivators I now find more compelling, but we'll get to those later. 
 
-Games like Diablo and Borderlands are called Action RPG's, a genre defined by an emphasis on the statistical progression of the players attributes. The problem lies when the extrinsic motivators *undermine* the *Gesamtkunstwerk*, which means "total work of art", the blend of Presentation, Story and Gameplay in the context of video games. 
+Games like Diablo and Borderlands are called Action RPG's, a genre defined by an emphasis on the statistical progression of the players attributes. The problem lies when the extrinsic motivators *undermine* the *Gesamtkunstwerk*, which means "total work of art", the blend of Presentation, Story and Gameplay in the context of video games.
 
 In an APRG, the player character usually lacks influence on the story. In this case, get the stats out of my face as I don't feel investment in my character in the first place. Yes, the progression of skills and powers being unlocked can't just get thrown out. That can be incorporated into the story like how dark souls manages it's leveling within the calming respite of the bonfire. That implementation creates an encapsulation of two cohesive parts: the characters statistical progress as a separate element from the rhythm of the gameplay, and a moment of calm in an otherwise tense game. Once I've spent my time and attention on my stats, allow me to focus and enjoy exploring the world and characters your team has created. In an ARPG, my player character serves little more than a shell for me to place myself into, so let me experience the story of the game and rhythm of the combat without reminding me of how much XP that last kill was worth.
 
