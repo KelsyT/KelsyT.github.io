@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T20:00
-date: 2024-08-11T18:00
+date: 2024-08-11T18:01
 title: finding your vibe
 categories:
   - blog
@@ -17,7 +17,7 @@ I play them for the *vibes*. I think we all do. So what's your vibe? Today, I'm 
 
 #### How we talk about games matters
 
-What you find compelling in a game says something about you. Something you once found rewarding you may later find empty and hollow. And what one player finds enjoyable, another may find utterly frustrating. I'd like to explore these shifting desires within players here first. 
+What you find compelling in a game says something about you. Something you once found rewarding you may later find empty and hollow. And what one player finds enjoyable, another may find utterly frustrating. I'd like to explore these shifting desires within players first. 
 
 Reviewing and discussing games is inherently subjective because were all biased. If you're aware of your own lenses and how they distort what you see, you'll be a lot less likely to slip into unconstructive criticism or a blindness to the insight a game offers. I wish to see and appreciate the insight within my favorite games, and even some games that I don't enjoy.
 
