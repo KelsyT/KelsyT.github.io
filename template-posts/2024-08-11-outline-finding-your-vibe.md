@@ -1,6 +1,6 @@
 ---
 created: 2024-08-10T10:12
-date: 2024-08-11T18:39
+date: 2024-08-11T18:59
 title: "outline: finding your vibe"
 categories:
   - outline
@@ -27,4 +27,5 @@ extrinsic motivation
 Defining APRG's
 - statistical progression through increasing attributes
 	- these can be a turn off if shoved in my face
-- feeling of lack of investment in main character due to 
+- feeling of lack of investment in main character due to lack of influence in story
+- I feel like I'm not a true fan of the genre of ARPG's and thus lack good faith, or at least it feels that way when reading this as it just 
