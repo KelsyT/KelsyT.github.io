@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T20:00
-date: 2024-08-11T19:35
+date: 2024-08-11T19:40
 title: finding your vibe
 categories:
   - blog
@@ -53,7 +53,7 @@ ARPG's set out to retain their player base by leveraging extrinsic motivators li
 
 I welcome user interfaces that relieve the need for keeping track of clues or other details I could otherwise forget during a playthrough. But I want the option to choose when it's in my face. 
 
-The extrinsic motivators I mentioned often accumulate to a feeling of apathy and deprive my imagination from blossoming in the world in front of me. Nothing collapses a huge open world like seeing everything that can be done consolidated to a list of possible activities.
+The extrinsic motivators I mentioned often accumulate to a feeling of apathy and deprive my imagination from blossoming in the world in front of me. Nothing collapses a huge open world like seeing everything that can be done consolidated to a list of possible activities. It's too damn clean! I want some tease, some mystery!
 
 ![red-dead-redemption-2-map](https://github.com/user-attachments/assets/38729570-1ed2-4481-9de3-d02085b9ccb0)
 
