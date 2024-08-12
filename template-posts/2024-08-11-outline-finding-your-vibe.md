@@ -1,6 +1,6 @@
 ---
 created: 2024-08-10T10:12
-date: 2024-08-11T18:35
+date: 2024-08-11T18:39
 title: "outline: finding your vibe"
 categories:
   - outline
@@ -22,4 +22,9 @@ methods of motivation
 
 extrinsic motivation
 - random loot drops in fun chests
-I still like these kinds of motivators but only when they are 
+	- I still like these kinds of motivators but only when they take a back seat
+
+Defining APRG's
+- statistical progression through increasing attributes
+	- these can be a turn off if shoved in my face
+- feeling of lack of investment in main character due to 
