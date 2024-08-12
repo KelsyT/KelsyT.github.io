@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T20:00
-date: 2024-08-11T18:40
+date: 2024-08-11T18:41
 title: finding your vibe
 categories:
   - blog
@@ -41,7 +41,7 @@ These extrinsic motivators are everywhere because they succeed at increasing pla
 
 Games like Diablo and Borderlands are called Action RPG's, a genre defined by an emphasis on the statistical progression of the players attributes. The problem lies when the extrinsic motivators *undermine* the *Gesamtkunstwerk*, which means "total work of art", the blend of Presentation, Story and Gameplay in the context of video games. 
 
-If a game places less emphasis on the story of my player character, which ARPG's often do, get the stats out of my face as I don't feel investment in my character in the first place. Yes, the progression of skills and powers being unlocked can't just get thrown out. That can be incorporated into the story like how dark souls manages it's leveling within the calming respite of the bonfire. That implementation creates an encapsulation of two cohesive parts: the characters statistical progress as a separate element from the rhythm of the gameplay, and a moment of calm in an otherwise tense game. Once I've spent my time and attention on my stats, allow me to focus and enjoy exploring the world and characters your team has created. In an ARPG, my player character serves  little more than a shell for me to place myself into, so let me experience the story of the game and rhythm of the combat without reminding me of how much XP that last kill was worth.
+If a game places less emphasis on the story of my player character, which ARPG's often do, get the stats out of my face as I don't feel investment in my character in the first place. Yes, the progression of skills and powers being unlocked can't just get thrown out. That can be incorporated into the story like how dark souls manages it's leveling within the calming respite of the bonfire. That implementation creates an encapsulation of two cohesive parts: the characters statistical progress as a separate element from the rhythm of the gameplay, and a moment of calm in an otherwise tense game. Once I've spent my time and attention on my stats, allow me to focus and enjoy exploring the world and characters your team has created. In an ARPG, my player character serves little more than a shell for me to place myself into, so let me experience the story of the game and rhythm of the combat without reminding me of how much XP that last kill was worth.
 
 If a game *is* a true role playing game, one where I am trying to imagine myself as a unique character who plays alongside a cast of characters woven throughout a reactive, choice-driven narrative, then the statistical progression of my player character should exist as nothing more than a number tracker for my convenience. To remind me of every accomplishment with an XP notification is to break me out of character. The more my attention is drawn to the stats, the less I feel engaged with the world my character is set in. The characters and events of the narrative should be taking full command of the stage, and every effort should be made to keep me suspended within that world.
 
