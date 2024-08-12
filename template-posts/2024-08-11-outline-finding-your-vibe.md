@@ -1,6 +1,6 @@
 ---
 created: 2024-08-10T10:12
-date: 2024-08-11T19:31
+date: 2024-08-11T19:33
 title: "outline: finding your vibe"
 categories:
   - outline
@@ -31,4 +31,5 @@ motivation by statistical progression in RPG's
 - I feel like I'm not a true fan of ARPG's despite my experience with them, and thus lack good faith, or at least it feels that way when reading this as it just kind of ends with me saying get XP noties out my face. I'm trying to express the fact that XP noties don't motivate me, but it doesn't feel good.
 - Then I argue about RPG's, and why they too shouldn't have XP noties.
 - I argue that MMORPG's, along with ARPG's are all about the attributes despite the quality and size of their setting, story and presentation. 
-- Truth is these motivators compel some, not me typically. Either way to reduce World of Warcraft to just "It's all about the attributes" is reductive.
+- Truth is while these motivators compel some but not me, they are smaller elements within the Gesamtkunstwerk. They are not why people play these games. To say World of Warcraft is "all about the attributes" is reductive and ignores the other compelling reasons people play these games. The social factor is a large factor for instance.
+

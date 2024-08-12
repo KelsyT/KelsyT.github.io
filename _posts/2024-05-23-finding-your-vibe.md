@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T20:00
-date: 2024-08-11T19:25
+date: 2024-08-11T19:35
 title: finding your vibe
 categories:
   - blog
@@ -49,7 +49,7 @@ If a game *is* a true role playing game, one where I am trying to imagine myself
 
 It seems that the other kind of RPG, more the Action RPG, games like World of Warcraft, the one where player attributes play front and center in keeping the player motivated to progress have risen simply because that's what gamers are buying. These games promise massive worlds with a plethora of content to explore, hundreds of quests to finish, and endless combinations of characters to build. But again, the emphasis throughout the *Gesamtkunstwerk* is increasing the attributes of any given player character. Despite the world that took years to build, the music carefully orchestrated, and the gameplay refined using countless play testers, the game that is prototypical of this genre is increasing the numbers of the player character above all. It's all about the attributes.
 
-ARPG's set out to retain their player base by leveraging extrinsic motivators to keep players engaged, while also using randomized loot drops for a more addictive experience. I'm not one to judge another for what they spend their free time on nor do I wish to belittle others for any enjoyment they get from games using these motivators. All I wish to do is shed light on methods of motivation that I have found to be more effective for me personally.
+ARPG's set out to retain their player base by leveraging extrinsic motivators like randomized loot drops for a more addictive experience. I'm not one to judge another for what they spend their free time on nor do I wish to belittle others for any enjoyment they get from games using these motivators. All I wish to do is shed light on methods of motivation that I have found to be more effective for me personally.
 
 I welcome user interfaces that relieve the need for keeping track of clues or other details I could otherwise forget during a playthrough. But I want the option to choose when it's in my face. 
 
