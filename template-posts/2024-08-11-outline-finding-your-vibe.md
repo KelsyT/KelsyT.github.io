@@ -1,6 +1,6 @@
 ---
 created: 2024-08-10T10:12
-date: 2024-08-11T19:02
+date: 2024-08-11T19:20
 title: "outline: finding your vibe"
 categories:
   - outline
@@ -29,4 +29,5 @@ Defining APRG's
 	- these can be a turn off if shoved in my face
 - feeling of lack of investment in main character due to lack of influence in story
 - I feel like I'm not a true fan of ARPG's despite my experience with them, and thus lack good faith, or at least it feels that way when reading this as it just kind of ends with me saying get XP noties out my face like wtf
+- Then I argue about RPG's, and why they too shouldn't have XP noties.
 - 
