@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T20:00
-date: 2024-08-11T19:40
+date: 2024-08-11T19:42
 title: finding your vibe
 categories:
   - blog
@@ -62,6 +62,8 @@ I feel little to no joy from numbers going up, unlocking achievements, counting 
 #### Discovery, anticipation and other fleeting intrinsic motivation
 
 Tastes change, and as I've gown up I've found far less enjoyment from extrinsic motivators such as leveling up, unlocking achievements, or checking off tasks from a list. I don't think any of these motivators are inherently *bad*, but they don't motivate me to continue playing. They distract more than they immerse, and when presented overwhelmingly, they undermine my desire to explore the world. Instead of slowly uncovering a mystery through exploration, each breadcrumb has been neatly organized into a string to follow.
+
+I want to be a detective, I want to discover for myself what just the hell is going on. I want to make connections within a world that are hidden right in plain sight.
 
 Unfolding the layers of the world and it's characters are reward enough.
 
