@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T20:00
-date: 2024-08-11T18:21
+date: 2024-08-11T18:34
 title: finding your vibe
 categories:
   - blog
@@ -33,11 +33,11 @@ I'm going to start with some ubiquitous methods that game developers use to push
 
 #### Extrinsic motivators
 
-I used to spend hours playing games like Borderlands, chasing after the next procedurally generated loot drop, hoping to find the next best gun. I spent a lot of time reading user interfaces designed to show me how my current weapon compared to the loot on the floor in front of me.
+I used to spend hours playing games like Borderlands when I was a teenager. I'd chasing after the next procedurally generated loot drop, hoping to find the next best gun. I spent a lot of time reading user interfaces designed to show me how my current weapon compared to the loot on the floor in front of me.
 
 ![steamuserimages-a akamaihd](https://github.com/user-attachments/assets/1f30c4fb-c24c-4d9f-9344-c8bcfceb3eab)
 
-These extrinsic motivators are everywhere because they succeed at increasing player retention. I can recall being pulled along the looter shooter string in Borderlands. I enjoyed the world and inhabitants of Borderlands, but it was the curiosity of which gun was inside the next chest that hooked me as a teen. I find these motivators still have a chance to sink their teeth in me if given the back seat to the other motivators I now find more compelling, but we'll get to those later. 
+These extrinsic motivators are everywhere because they succeed at increasing player retention. I can recall being pulled along the looter shooter string in Borderlands. I enjoyed the world and inhabitants of the game, but it was the curiosity of which gun was inside the next chest that hooked me. I find these motivators still have a chance to sink their teeth in me if given the back seat to the other motivators I now find more compelling, but we'll get to those later. 
 
 Games like Diablo and Borderlands are called Action RPG's, a genre defined by an emphasis on the statistical progression of the players attributes. The problem lies when the extrinsic motivators *undermine* the *Gesamtkunstwerk*, which means "total work of art", the blend of Presentation, Story and Gameplay in the context of video games. 
 
