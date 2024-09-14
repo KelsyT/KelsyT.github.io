@@ -6,7 +6,6 @@
       {
         "id": "eb7c1907018a07ec",
         "type": "tabs",
-        "dimension": 60.44835868694956,
         "children": [
           {
             "id": "b19cebdd6accb052",
@@ -67,41 +66,21 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "57bf810d6295ba6c",
-        "type": "tabs",
-        "dimension": 39.551641313050446,
-        "children": [
-          {
-            "id": "b0b0d1eb7ea925af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/2010-01-07-post-standard 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           },
           {
-            "id": "53984c1b031de675",
+            "id": "cedfacce7b220bc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template-posts/2024-08-11-outline-finding-your-vibe.md",
+                "file": "Botany/California Native Plants/Calscape.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Botany/California Native Plants/CNPS California Native Plant Society.md",
+                "file": "Botany/California Native Plants/Calscape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Botany/California Native Plants/CNPS California Native Plant Society.md",
+                "file": "Botany/California Native Plants/Calscape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Botany/California Native Plants/CNPS California Native Plant Society.md"
+                "file": "Botany/California Native Plants/Calscape.md"
               }
             }
           }
@@ -228,10 +207,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f75468b9591d8c7",
+  "active": "50fc87a5c4a59995",
   "lastOpenFiles": [
-    "Botany/California Native Plants/CNPS Redbud Chapter.md",
     "Botany/California Native Plants/CNPS California Native Plant Society.md",
+    "Botany/California Native Plants/Calscape.md",
+    "Botany/California Native Plants/CNPS Redbud Chapter.md",
     "Botany/California Native Plants/Dana York.md",
     "Botany/California Native Plants/James M. André.md",
     "Botany",
