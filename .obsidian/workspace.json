@@ -50,14 +50,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botany/California Native Plants/Dana York.md",
+                "file": "Botany/California Native Plants/CNPS Redbud Chapter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f75468b9591d8c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/California Native Plants/CNPS California Native Plant Society.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "57bf810d6295ba6c",
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Botany/California Native Plants/Dana York.md",
+                "file": "Botany/California Native Plants/CNPS California Native Plant Society.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Botany/California Native Plants/Dana York.md",
+                "file": "Botany/California Native Plants/CNPS California Native Plant Society.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Botany/California Native Plants/Dana York.md"
+                "file": "Botany/California Native Plants/CNPS California Native Plant Society.md"
               }
             }
           }
@@ -216,13 +228,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6096fa6dd9797f81",
+  "active": "5f75468b9591d8c7",
   "lastOpenFiles": [
+    "Botany/California Native Plants/CNPS Redbud Chapter.md",
+    "Botany/California Native Plants/CNPS California Native Plant Society.md",
+    "Botany/California Native Plants/Dana York.md",
     "Botany/California Native Plants/James M. André.md",
     "Botany",
     "Botany/California Native Plants",
-    "Botany/California Native Plants/Dana York.md",
-    "Botany/California Native Plants/CNPS Redbud Chapter.md",
     "_posts/2024-05-23-finding-your-vibe.md",
     "template-posts/2024-08-11-outline-finding-your-vibe.md",
     "_drafts/2010-01-07-post-standard 1.md",
