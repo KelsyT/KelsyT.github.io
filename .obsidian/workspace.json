@@ -219,8 +219,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12a5fbb63df8b348",
+  "active": "50fc87a5c4a59995",
   "lastOpenFiles": [
+    "Botany/Open Quests",
     "Botany/California Native Plants/CNPS Redbud Chapter.md",
     "Botany/California Native Plants/Star Carroll.md",
     "Botany/California Native Plants/CNPS.md",
@@ -260,7 +261,6 @@
     "template-posts",
     "_pages/year-archive.md",
     "_pages/tag-archive.md",
-    "README for Minimal Mistakes Jekyll theme.md",
     "assets/gifs/GraphView.gif",
     "assets/gifs/GraphView-ezgif.com-optimize.gif.crdownload",
     "assets/gifs",
