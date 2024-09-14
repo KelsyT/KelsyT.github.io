@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botany/California Native Plants/CNPS California Native Plant Society.md",
+                "file": "Botany/California Native Plants/CNPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CNPS.md",
+                "file": "Botany/California Native Plants/Star Carroll.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CNPS.md",
+                "file": "Botany/California Native Plants/Star Carroll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CNPS.md",
+                "file": "Botany/California Native Plants/Star Carroll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CNPS.md"
+                "file": "Botany/California Native Plants/Star Carroll.md"
               }
             }
           }
@@ -221,11 +221,11 @@
   },
   "active": "12a5fbb63df8b348",
   "lastOpenFiles": [
-    "Star Carroll.md",
+    "Botany/California Native Plants/CNPS Redbud Chapter.md",
+    "Botany/California Native Plants/Star Carroll.md",
+    "Botany/California Native Plants/CNPS.md",
     "CNPS.md",
     "Botany/California Native Plants/Calscape.md",
-    "Botany/California Native Plants/CNPS California Native Plant Society.md",
-    "Botany/California Native Plants/CNPS Redbud Chapter.md",
     "Botany/California Native Plants/Dana York.md",
     "Botany/California Native Plants/James M. André.md",
     "Botany",
