@@ -1,8 +1,10 @@
 ---
 created: 2024-09-14T15:59
-date: 2024-09-14T16:01
+date: 2024-09-14T16:03
 ---
 Masters in botany. Coauthor of The Plants of the "Pacific Crest Trail" and author of "A Flora of Sequoia & Kings Canyon National Parks".
+
+https://www.cnps.org/books/catching-up-with-dana-york-13321
 
 [![Dana York](https://www.hachettebookgroup.com/wp-content/uploads/2023/02/York-author-photo-by-Ann-Dalkey.jpg?w=420&h=580&crop=1)](https://www.hachettebookgroup.com/contributor/dana-york/)
 
