@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d786f8de71a61c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CNPS Redbud Chapter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "57bf810d6295ba6c",
@@ -98,13 +111,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -120,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-23-finding-your-vibe.md",
+                "file": "CNPS Redbud Chapter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-23-finding-your-vibe.md",
+                "file": "CNPS Redbud Chapter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-23-finding-your-vibe.md"
+                "file": "CNPS Redbud Chapter.md"
               }
             }
           }
@@ -181,10 +192,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b19cebdd6accb052",
+  "active": "2d786f8de71a61c9",
   "lastOpenFiles": [
-    "template-posts/2024-08-11-outline-finding-your-vibe.md",
     "_posts/2024-05-23-finding-your-vibe.md",
+    "CNPS Redbud Chapter.md",
+    "template-posts/2024-08-11-outline-finding-your-vibe.md",
     "_drafts/2010-01-07-post-standard 1.md",
     "_drafts/draft.md",
     "_drafts",
