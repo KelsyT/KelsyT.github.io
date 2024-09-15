@@ -11,11 +11,28 @@
             "id": "24489cfc1fda5c0d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Botany/California Native Plants/Star Carroll.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce40c51a48cae642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Julie Kierstead.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Botany/California Native Plants/CNPS El Dorado Chapter.md",
+                "file": "Julie Kierstead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Botany/California Native Plants/CNPS El Dorado Chapter.md",
+                "file": "Julie Kierstead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Botany/California Native Plants/CNPS El Dorado Chapter.md"
+                "file": "Julie Kierstead.md"
               }
             }
           }
@@ -142,16 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50fc87a5c4a59995",
+  "active": "ce40c51a48cae642",
   "lastOpenFiles": [
-    "Botany/California Native Plants/Keisha Ernst.md",
+    "Botany/California Native Plants/Star Carroll.md",
+    "Julie Kierstead.md",
     "Botany/California Native Plants/CNPS El Dorado Chapter.md",
+    "Botany/California Native Plants/Keisha Ernst.md",
     "Botany/📜 Open Quests/Soil Food Web - Wesley Sander - Auburn Library.md",
     "Botany/California Native Plants/Wesley Sander.md",
     "Botany/California Native Plants/Elaine Ingham.md",
     "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md",
     "Botany/California Native Plants/CNPS Redbud Chapter.md",
-    "Botany/California Native Plants/Star Carroll.md",
     "Botany/📕 Closed Quests",
     "Botany/📜 Open Quests",
     "Botany/California Native Plants/CNPS.md",
@@ -184,7 +202,6 @@
     "assets/images/bio-photo-tempplate.jpg",
     "assets/images/OuterWildsCampfireSqaure.png",
     "template-posts/2010-03-07-post-link.md",
-    "template-posts/2010-01-07-post-modified.md",
     "template-posts",
     "assets/gifs/GraphView.gif",
     "assets/gifs/GraphView-ezgif.com-optimize.gif.crdownload",

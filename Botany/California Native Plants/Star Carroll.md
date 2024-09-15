@@ -1,6 +1,6 @@
 ---
 created: 2024-09-14T16:39
-date: 2024-09-14T17:02
+date: 2024-09-14T20:20
 ---
 starcarroll4@gmail.com
 
@@ -14,7 +14,7 @@ Star told me about the following during our first time chatting at her pop-up in
 
 Bear Land Trust
 
-Shane Henoffee, field biologist
+[[Shane Henofee]], field biologist
 
 Douglas Tallamy
 Blog
