@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "32208b7d9b55e728",
+        "id": "ccf2755c2a4bbbde",
         "type": "tabs",
         "children": [
           {
-            "id": "24489cfc1fda5c0d",
+            "id": "d72b701bcad0a8b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botany/California Native Plants/Star Carroll.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce40c51a48cae642",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Hydrozoning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac34e37bca57fe88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/California Native Plants/CNPS Redbud Chapter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb52362d6f951359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/California Native Plants/Dana York.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bec9b3ca8bcb0c4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/California Native Plants/Nurseries/Native West Nursery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3080e529503cfb21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iNaturalist.md",
+                "file": "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iNaturalist.md",
+                "file": "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iNaturalist.md",
+                "file": "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iNaturalist.md"
+                "file": "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md"
               }
             }
           }
@@ -207,21 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3080e529503cfb21",
+  "active": "d72b701bcad0a8b5",
   "lastOpenFiles": [
+    "Botany/California Native Plants/iNaturalist.md",
     "Gamification external vs internal rewards.md",
-    "iNaturalist.md",
     "Botany/California Native Plants/Keisha Ernst.md",
     "Botany/California Native Plants/Nurseries/Native West Nursery.md",
-    "CCH.md",
+    "Botany/California Native Plants/CCH.md",
     "Botany/California Native Plants/Nurseries",
     "Botany/California Native Plants/Dana York.md",
     "Botany/📜 Open Quests/Soil Food Web - Wesley Sander - Auburn Library.md",
-    "World Flora Online.md",
+    "Botany/California Native Plants/World Flora Online.md",
     "Botany/California Native Plants/CNPS Redbud Chapter.md",
-    "TrashPanadaPermaculture.md",
+    "Botany/California Native Plants/TrashPanadaPermaculture.md",
     "Botany/Hydrozoning.md",
-    "Julie Kierstead.md",
+    "Botany/California Native Plants/Julie Kierstead.md",
     "Botany/California Native Plants/Star Carroll.md",
     "Botany/California Native Plants/CNPS El Dorado Chapter.md",
     "Botany/California Native Plants/Wesley Sander.md",
