@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md",
+                "file": "Wildflowers of Nevada and Placer Counties, California.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md",
+                "file": "Wildflowers of Nevada and Placer Counties, California.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md",
+                "file": "Wildflowers of Nevada and Placer Counties, California.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md"
+                "file": "Wildflowers of Nevada and Placer Counties, California.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "d72b701bcad0a8b5",
   "lastOpenFiles": [
-    "Botany/📜 Open Quests/Soil Food Web - Wesley Sander - Auburn Library.md",
-    "Ames Gilbert.md",
     "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md",
-    "Maidu Museum.md",
+    "Wildflowers of Nevada and Placer Counties, California.md",
+    "Botany/California Native Plants/Trees and Shrubs of Nevada and Placer Counties, California.md",
+    "Botany/📜 Open Quests/Soil Food Web - Wesley Sander - Auburn Library.md",
+    "Botany/California Native Plants/Ames Gilbert.md",
+    "Botany/California Native Plants/Maidu Museum.md",
     "Botany/California Native Plants/iNaturalist.md",
     "Gamification external vs internal rewards.md",
     "Botany/California Native Plants/Keisha Ernst.md",
@@ -177,8 +179,6 @@
     "Botany",
     "Botany/California Native Plants",
     "_posts/2024-05-23-finding-your-vibe.md",
-    "template-posts/2024-08-11-outline-finding-your-vibe.md",
-    "_drafts/2010-01-07-post-standard 1.md",
     "_drafts",
     "assets/images/finding your vibe/steamuserimages-a.akamaihd.jpg",
     "assets/images/finding your vibe/red-dead-redemption-2-map.jpg.webp",
