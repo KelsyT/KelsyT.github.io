@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Botany/California Native Plants/CNPS Redbud Chapter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb52362d6f951359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/📜 Open Quests/Soil Food Web - Wesley Sander - Auburn Library.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Botany/📜 Open Quests/Soil Food Web - Wesley Sander - Auburn Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Botany/📜 Open Quests/Soil Food Web - Wesley Sander - Auburn Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Botany/📜 Open Quests/Soil Food Web - Wesley Sander - Auburn Library.md"
               }
             }
           }
@@ -171,10 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac34e37bca57fe88",
+  "active": "bb52362d6f951359",
   "lastOpenFiles": [
+    "World Flora Online.md",
+    "Botany/California Native Plants/CNPS Redbud Chapter.md",
+    "TrashPanadaPermaculture.md",
     "Botany/Hydrozoning.md",
-    "Untitled.md",
     "Julie Kierstead.md",
     "Botany/California Native Plants/Star Carroll.md",
     "Botany/California Native Plants/CNPS El Dorado Chapter.md",
@@ -183,7 +197,6 @@
     "Botany/California Native Plants/Wesley Sander.md",
     "Botany/California Native Plants/Elaine Ingham.md",
     "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md",
-    "Botany/California Native Plants/CNPS Redbud Chapter.md",
     "Botany/📕 Closed Quests",
     "Botany/📜 Open Quests",
     "Botany/California Native Plants/CNPS.md",
@@ -208,7 +221,6 @@
     "assets/images/finding your vibe/red-dead-redemption-2-map.jpg",
     "assets/images/finding your vibe",
     "_posts/finding your vibe.md",
-    "_pages/category-archive.md",
     "assets/images/bio-photo.png",
     "assets/images/bio-photo-2.png",
     "assets/images/bio-photo-1.png",

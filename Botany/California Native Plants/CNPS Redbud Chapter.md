@@ -1,10 +1,12 @@
 ---
 created: 2024-09-14T15:42
-date: 2024-09-14T18:26
+date: 2024-09-15T09:58
 ---
 https://youtube.com/@Redbudcnps/streams
 
 https://chapters.cnps.org/redbud/
+
+https://www.facebook.com/RedbudChapterCNPS
 
 [[CNPS]] - Redbud chapter
 
