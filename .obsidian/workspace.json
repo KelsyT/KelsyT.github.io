@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botany/California Native Plants/Wildflowers of Nevada and Placer Counties, California.md",
+                "file": "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Botany/California Native Plants/Wildflowers of Nevada and Placer Counties, California.md",
+                "file": "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Botany/California Native Plants/Wildflowers of Nevada and Placer Counties, California.md",
+                "file": "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Botany/California Native Plants/Wildflowers of Nevada and Placer Counties, California.md"
+                "file": "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,12 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50fc87a5c4a59995",
+  "active": "d72b701bcad0a8b5",
   "lastOpenFiles": [
-    "Botany/California Native Plants/Trees and Shrubs of Nevada and Placer Counties, California.md",
-    "Botany/California Native Plants/Wildflowers of Nevada and Placer Counties, California.md",
+    "Serpentine Gabbro.md",
     "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md",
     "Botany/📜 Open Quests/Soil Food Web - Wesley Sander - Auburn Library.md",
+    "Serpentine/Gabbro.md",
+    "Serpentine",
+    "Serpintine/Gabbro.md",
+    "Serpintine",
+    "Botany/California Native Plants/Wildflowers of Nevada and Placer Counties, California.md",
+    "Botany/California Native Plants/Trees and Shrubs of Nevada and Placer Counties, California.md",
     "Botany/California Native Plants/Ames Gilbert.md",
     "Botany/California Native Plants/Maidu Museum.md",
     "Botany/California Native Plants/iNaturalist.md",
@@ -173,11 +179,8 @@
     "Botany/📜 Open Quests",
     "Botany/California Native Plants/CNPS.md",
     "CNPS.md",
-    "Botany/California Native Plants/Calscape.md",
-    "Botany/California Native Plants/James M. André.md",
     "Botany",
     "Botany/California Native Plants",
-    "_posts/2024-05-23-finding-your-vibe.md",
     "_drafts",
     "assets/images/finding your vibe/steamuserimages-a.akamaihd.jpg",
     "assets/images/finding your vibe/red-dead-redemption-2-map.jpg.webp",
@@ -190,8 +193,6 @@
     "assets/images/bio-photo-tempplate.jpg",
     "assets/images/OuterWildsCampfireSqaure.png",
     "template-posts",
-    "assets/gifs/GraphView.gif",
-    "assets/gifs/GraphView-ezgif.com-optimize.gif.crdownload",
-    "assets/gifs"
+    "assets/gifs/GraphView.gif"
   ]
 }
