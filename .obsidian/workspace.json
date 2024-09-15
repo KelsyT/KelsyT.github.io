@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wildflowers of Nevada and Placer Counties, California.md",
+                "file": "Botany/California Native Plants/Wildflowers of Nevada and Placer Counties, California.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wildflowers of Nevada and Placer Counties, California.md",
+                "file": "Botany/California Native Plants/Wildflowers of Nevada and Placer Counties, California.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wildflowers of Nevada and Placer Counties, California.md",
+                "file": "Botany/California Native Plants/Wildflowers of Nevada and Placer Counties, California.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wildflowers of Nevada and Placer Counties, California.md"
+                "file": "Botany/California Native Plants/Wildflowers of Nevada and Placer Counties, California.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,11 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d72b701bcad0a8b5",
+  "active": "50fc87a5c4a59995",
   "lastOpenFiles": [
-    "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md",
-    "Wildflowers of Nevada and Placer Counties, California.md",
     "Botany/California Native Plants/Trees and Shrubs of Nevada and Placer Counties, California.md",
+    "Botany/California Native Plants/Wildflowers of Nevada and Placer Counties, California.md",
+    "Botany/📜 Open Quests/Nursery Tour - Star Carroll - Redbud Nursery.md",
     "Botany/📜 Open Quests/Soil Food Web - Wesley Sander - Auburn Library.md",
     "Botany/California Native Plants/Ames Gilbert.md",
     "Botany/California Native Plants/Maidu Museum.md",
