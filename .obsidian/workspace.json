@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Julie Kierstead.md",
+                "file": "Botany/Hydrozoning.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Julie Kierstead.md",
+                "file": "Botany/Hydrozoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Julie Kierstead.md",
+                "file": "Botany/Hydrozoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Julie Kierstead.md"
+                "file": "Botany/Hydrozoning.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "ce40c51a48cae642",
   "lastOpenFiles": [
-    "Botany/California Native Plants/Star Carroll.md",
     "Julie Kierstead.md",
+    "Botany/Hydrozoning.md",
+    "Botany/California Native Plants/Star Carroll.md",
     "Botany/California Native Plants/CNPS El Dorado Chapter.md",
     "Botany/California Native Plants/Keisha Ernst.md",
     "Botany/📜 Open Quests/Soil Food Web - Wesley Sander - Auburn Library.md",
@@ -201,7 +202,6 @@
     "assets/images/bio-photo-1.png",
     "assets/images/bio-photo-tempplate.jpg",
     "assets/images/OuterWildsCampfireSqaure.png",
-    "template-posts/2010-03-07-post-link.md",
     "template-posts",
     "assets/gifs/GraphView.gif",
     "assets/gifs/GraphView-ezgif.com-optimize.gif.crdownload",
