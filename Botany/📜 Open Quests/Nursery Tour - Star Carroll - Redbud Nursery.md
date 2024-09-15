@@ -1,10 +1,10 @@
 ---
 created: 2024-09-14T16:57
-date: 2024-09-15T15:20
+date: 2024-09-15T15:33
 ---
 9/14/2024 I met [[Star Carroll]] at a community garden event in Colfax. ***Star told me she would give me a private "nickel" tour of the [[CNPS Redbud Chapter]] propagation nursey.***
 
-9/15/2024 I met up with [[Star Carroll]] at the CNPS Redbud nursery. I took photos, video and recording audio of Star while she gave me a tour of the nursery. She showed me a lot of different plants that I was too overwhelmed to fully appreciate. It was so nice seeing a community effort all about growing and selling native species to the Nevada and Placer county region. The funds these sales have helped efforts such as the two Redbud Chapter books: 2007's [[Wildflowers of Nevada and Placer Counties, California]], and 2014's [[Trees and Shrubs of Nevada and Placer Counties, California]], both of which were published by [[CNPS Press]].
+9/15/2024 I met up with [[Star Carroll]] at the [[CNPC Redbud Nursery]]. I took photos, video and recording audio of Star while she gave me a tour of the nursery. She showed me a lot of different plants that I was too overwhelmed to fully appreciate. It was so nice seeing a community effort all about growing and selling native species to the Nevada and Placer county region. The funds these sales have helped efforts such as the two Redbud Chapter books: 2007's [[Wildflowers of Nevada and Placer Counties, California]], and 2014's [[Trees and Shrubs of Nevada and Placer Counties, California]], both of which were published by [[CNPS Press]].
 
 Star is quite an enthusiast and self learner as she tends her own garden at home and helps out at the nursery. She's especially curious about the relationship between plant growth and geology. Some plants prefer different kinds of soil, or as the [[Trees and Shrubs of Nevada and Placer Counties, California]] book displays on it's back cover, Habitat Codes such as [[Riparian]],[[Serpentine Gabbro | Serpentine/Gabbro]] and [[Vernal Pools]] She refers to herself as the "Garden Grandma", though she told me that the nursery is ran by volunteers like herself. A married couple manage the nursery, [[Nancy Gilbert]] who has an extensive knowledge of plants and landscaping, as well as her husband [[Ames Gilbert]], who provides engineer/infrastructure support for the nursery. It's a scrappy yet clean and organized place. 
 
