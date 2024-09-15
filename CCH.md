@@ -6,4 +6,4 @@ Consortium of California Herbaria (CCH)
 
 https://ucjeps.berkeley.edu/consortium/
 
-[[Dana York]] is among the collectors for t
+[[Dana York]] is among the collectors for this consortium.
