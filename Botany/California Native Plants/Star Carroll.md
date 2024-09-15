@@ -1,7 +1,9 @@
 ---
 created: 2024-09-14T16:39
-date: 2024-09-14T16:48
+date: 2024-09-14T17:02
 ---
+starcarroll4@gmail.com
+
 [[CNPS]]
 
 [[CNPS Redbud Chapter]]
