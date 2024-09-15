@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac34e37bca57fe88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Botany/Hydrozoning.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Botany/Hydrozoning.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Botany/Hydrozoning.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce40c51a48cae642",
+  "active": "ac34e37bca57fe88",
   "lastOpenFiles": [
-    "Julie Kierstead.md",
     "Botany/Hydrozoning.md",
+    "Untitled.md",
+    "Julie Kierstead.md",
     "Botany/California Native Plants/Star Carroll.md",
     "Botany/California Native Plants/CNPS El Dorado Chapter.md",
     "Botany/California Native Plants/Keisha Ernst.md",
@@ -196,7 +209,6 @@
     "assets/images/finding your vibe",
     "_posts/finding your vibe.md",
     "_pages/category-archive.md",
-    "_posts/2019-04-18-its-my-first-post.md",
     "assets/images/bio-photo.png",
     "assets/images/bio-photo-2.png",
     "assets/images/bio-photo-1.png",
