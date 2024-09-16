@@ -1,8 +1,8 @@
 ---
 created: 2024-09-16T16:31
-date: 2024-09-16T16:33
+date: 2024-09-16T16:37
 ---
-[[Naomi Fraga]] was credited by [[Julie Kierstead]] for 
+[[Naomi Fraga]] was credited by [[Julie Kierstead]] for coining the word [[Floristics|floristics]], and championing it's work, leading to the academic symbiosis of floristics and [[Systematists|systematics]] botany research.
 
 from https://www.cgu.edu/people/naomi-fraga/
 # Naomi Fraga
