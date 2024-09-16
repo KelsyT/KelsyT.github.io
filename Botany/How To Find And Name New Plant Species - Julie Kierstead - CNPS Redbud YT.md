@@ -1,6 +1,6 @@
 ---
 created: 2024-09-16T15:24
-date: 2024-09-16T16:52
+date: 2024-09-16T16:57
 ---
 https://www.youtube.com/watch?v=t30qQ9BQyG0
 
@@ -31,4 +31,3 @@ Some contemporary California Taxonomic Specialists:
 [[Bob Patterson]] 
 
 [[Naomi Fraga]]
-
