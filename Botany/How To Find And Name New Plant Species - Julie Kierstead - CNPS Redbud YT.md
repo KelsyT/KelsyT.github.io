@@ -1,6 +1,6 @@
 ---
 created: 2024-09-16T15:24
-date: 2024-09-16T16:08
+date: 2024-09-16T16:13
 ---
 https://www.youtube.com/watch?v=t30qQ9BQyG0
 
@@ -14,4 +14,6 @@ The gold rush of the west 1847-48 led to a large population growth and eventual 
 
 Julie defines "discovering" as finding a [[Population|population]] or populations of plants that don't fit the description of any named plants in catalogs such as *JEPS eFlora*, the *Flora of North America*, the *Oregon Flora*, the *Intermountain Flora*, or any other pertinent published flora. Julie notes the possibility that your weirdo plant has been previously published but is not recognized in any of the current Floras. "Naming" is naming a plant according to the rules of International Code of Nomenclature for algae, fungi, and plants, which is updated by the International Association of Plant Taxonomists every few years.
 
-Specialists in a particular plant group: [[Taxonomists|taxonomists]] and [[Systematists|systematists]]
+Specialists in a particular plant group: [[Taxonomists|taxonomists]] and [[Systematists|systematists]]. Experts in a particular regional flora: floristians. 
+
+Julie refers to the early explorers as "hay balers" as their primary duty was to find new plant with little regard for detailed note taking. With so many new plants to discover, they focused more on shipped as many plants back home as they could. 

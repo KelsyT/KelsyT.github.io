@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
+                "file": "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 388.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
+                "file": "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
+                "file": "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md"
+                "file": "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md"
               }
             }
           }
@@ -134,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,12 +150,12 @@
   },
   "active": "50fc87a5c4a59995",
   "lastOpenFiles": [
-    "Untitled",
+    "Botany/botany assets",
     "Botany/Taxonomists.md",
     "Taxonomists.md",
-    "How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
-    "Species Planetarium.md",
-    "Pasted image 20240916153250.jpg",
+    "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
+    "Botany/Species Planetarium.md",
+    "Botany/botany assets/Pasted image 20240916153250.jpg",
     "Botany/California Native Plants/Julie Kierstead.md",
     "Botany/Systematists.md",
     "Botany/California Native Plants/Jennifer Jewell.md",
