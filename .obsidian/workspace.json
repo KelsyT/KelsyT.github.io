@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botany/California Native Plants/Jennifer Jewell.md",
+                "file": "Botany/Systematists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd40855cea08bac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How To Find And Name New Plant Species - Julie Kierstead.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Botany/California Native Plants/Jennifer Jewell.md",
+                "file": "How To Find And Name New Plant Species - Julie Kierstead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Botany/California Native Plants/Jennifer Jewell.md",
+                "file": "How To Find And Name New Plant Species - Julie Kierstead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Botany/California Native Plants/Jennifer Jewell.md"
+                "file": "How To Find And Name New Plant Species - Julie Kierstead.md"
               }
             }
           }
@@ -146,10 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d72b701bcad0a8b5",
+  "active": "dd40855cea08bac9",
   "lastOpenFiles": [
-    "Botany/California Native Plants/Star Carroll.md",
+    "Botany/Systematists.md",
+    "How To Find And Name New Plant Species - Julie Kierstead.md",
+    "Botany/Taxonomist.md",
     "Botany/California Native Plants/Jennifer Jewell.md",
+    "Botany/California Native Plants/Star Carroll.md",
     "Botany/California Native Plants/CNPS Redbud Chapter.md",
     "Botany/California Native Plants/CNPS El Dorado Chapter.md",
     "Botany/California Native Plants/CNPS.md",
@@ -174,9 +190,6 @@
     "Botany/California Native Plants/Nurseries",
     "Botany/California Native Plants/Dana York.md",
     "Botany/California Native Plants/World Flora Online.md",
-    "Botany/California Native Plants/TrashPanadaPermaculture.md",
-    "Botany/Hydrozoning.md",
-    "Botany/California Native Plants/Julie Kierstead.md",
     "Botany/📕 Closed Quests",
     "Botany/📜 Open Quests",
     "Botany",
