@@ -1,6 +1,6 @@
 ---
 created: 2024-09-16T15:24
-date: 2024-09-16T16:29
+date: 2024-09-16T16:34
 ---
 https://www.youtube.com/watch?v=t30qQ9BQyG0
 
@@ -20,4 +20,4 @@ Julie refers to the early explorers as "hay balers" as their primary duty was to
 
 Julie describes field biologists finding a sample they thought was weird in a particular group, and then sending it off to a guru within academia. Perhaps the guru describes it, hands it off to a graduate student, publishes it with the field biologist (perhaps a florist in this case), or dismissing it as unremarkable much to field biologists dismay.
 
-Recently floristic work was seen as unfashionable, dismissed with "oh you're just a naturalist", the real botanist being the one doing systematic work, preferably with molecular tools. According to Julie this stigma is vanishing as of late, leading to symbiosis between floristics and systematicsthese two specializations thank to 
+Recently floristic work was seen as unfashionable, dismissed with "oh you're just a naturalist", the real botanist being the one doing systematic work, preferably with molecular tools. According to Julie this stigma is vanishing as of late, leading to symbiosis between floristics and systematics, as well as ecology thank to the efforts of [[Naomi Fraga]] of the [[California Botanical Garden Claremont|California Botanical Garden/Claremont]] (formerly Rancho Santa Ana)
