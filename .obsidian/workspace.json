@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d72b701bcad0a8b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Systematists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dd40855cea08bac9",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
-    "collapsed": true
+    "width": 388.5
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -160,14 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd40855cea08bac9",
+  "active": "50fc87a5c4a59995",
   "lastOpenFiles": [
-    "Species Planetarium.md",
+    "Untitled",
+    "Botany/Taxonomists.md",
+    "Taxonomists.md",
     "How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
+    "Species Planetarium.md",
     "Pasted image 20240916153250.jpg",
     "Botany/California Native Plants/Julie Kierstead.md",
     "Botany/Systematists.md",
-    "Botany/Taxonomist.md",
     "Botany/California Native Plants/Jennifer Jewell.md",
     "Botany/California Native Plants/Star Carroll.md",
     "Botany/California Native Plants/CNPS Redbud Chapter.md",
@@ -189,8 +177,6 @@
     "Botany/California Native Plants/Trees and Shrubs of Nevada and Placer Counties, California.md",
     "Botany/California Native Plants/Maidu Museum.md",
     "Botany/California Native Plants/iNaturalist.md",
-    "Gamification external vs internal rewards.md",
-    "Botany/California Native Plants/Keisha Ernst.md",
     "Botany/California Native Plants/Nurseries",
     "Botany/📕 Closed Quests",
     "Botany/📜 Open Quests",
