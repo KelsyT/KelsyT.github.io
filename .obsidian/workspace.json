@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botany/📜 Open Quests/Volunteering with Redbud Nursery.md",
+                "file": "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 388.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Botany/📜 Open Quests/Volunteering with Redbud Nursery.md",
+                "file": "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Botany/📜 Open Quests/Volunteering with Redbud Nursery.md",
+                "file": "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Botany/📜 Open Quests/Volunteering with Redbud Nursery.md"
+                "file": "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md"
               }
             }
           }
@@ -174,8 +175,8 @@
   },
   "active": "2a5d7a88d8973070",
   "lastOpenFiles": [
-    "Botany/📕 Closed Quests/Redbud Nursery Tour - Star Carroll.md",
     "Botany/📜 Open Quests/Volunteering with Redbud Nursery.md",
+    "Botany/📕 Closed Quests/Redbud Nursery Tour - Star Carroll.md",
     "Botany/California Native Plants/CNPS/Naomi Fraga.md",
     "Botany/California Native Plants/CNPS Redbud",
     "Botany/California Native Plants/CNPS",

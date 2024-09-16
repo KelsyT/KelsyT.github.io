@@ -1,6 +1,6 @@
 ---
 created: 2024-09-16T15:24
-date: 2024-09-16T16:45
+date: 2024-09-16T16:52
 ---
 https://www.youtube.com/watch?v=t30qQ9BQyG0
 
@@ -26,9 +26,9 @@ Recently floristic work was seen as unfashionable, dismissed with "oh you're jus
 
 Some contemporary California Taxonomic Specialists: 
 
-Bruce Baldwin
+[[Bruce Baldwin]] is the Curator of the Jepson Herbarium and Professor in the Department of Integrative Biology, UC Berkley. Expert in Asteraceae, the sunflower family. Credited with 67 new combinations at various ranks, mostly in Asteraceae.
 
-Bob Patterson
+[[Bob Patterson]] 
 
 [[Naomi Fraga]]
 
