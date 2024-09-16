@@ -1,6 +1,6 @@
 ---
 created: 2024-09-14T16:39
-date: 2024-09-14T20:20
+date: 2024-09-15T23:16
 ---
 starcarroll4@gmail.com
 
@@ -16,13 +16,13 @@ Bear Land Trust
 
 [[Shane Henofee]], field biologist
 
-Douglas Tallamy
+[[Douglas Tallamy]]
 Blog
 
-Jennifer Jewell, NPR
+[[Jennifer Jewell]], NPR
 Lives in Chico.
 Cultivating Place
 Master Gardeners
 
-Justin Macinlis, propagtes
+[[Justin Macinlis]], propagtes
 Nevada County Native plants
