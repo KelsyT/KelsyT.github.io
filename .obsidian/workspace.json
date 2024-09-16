@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 388.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -161,6 +162,7 @@
   },
   "active": "dd40855cea08bac9",
   "lastOpenFiles": [
+    "Pasted image 20240916153250.jpg",
     "Botany/California Native Plants/Julie Kierstead.md",
     "How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
     "Botany/Systematists.md",
@@ -189,7 +191,6 @@
     "Gamification external vs internal rewards.md",
     "Botany/California Native Plants/Keisha Ernst.md",
     "Botany/California Native Plants/Nurseries",
-    "Botany/California Native Plants/Dana York.md",
     "Botany/📕 Closed Quests",
     "Botany/📜 Open Quests",
     "Botany",
