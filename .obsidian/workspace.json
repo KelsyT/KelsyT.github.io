@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botany/Naomi Fraga.md",
+                "file": "Botany/California Native Plants/CNPS/Naomi Fraga.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botany/Naomi Fraga.md",
+                "file": "Botany/California Native Plants/CNPS/Naomi Fraga.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a5d7a88d8973070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/📜 Open Quests/Volunteering with Redbud Nursery.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Botany/Naomi Fraga.md",
+                "file": "Botany/📜 Open Quests/Volunteering with Redbud Nursery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Botany/Naomi Fraga.md",
+                "file": "Botany/📜 Open Quests/Volunteering with Redbud Nursery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Botany/Naomi Fraga.md"
+                "file": "Botany/📜 Open Quests/Volunteering with Redbud Nursery.md"
               }
             }
           }
@@ -160,11 +172,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55503ff57b008b3e",
+  "active": "2a5d7a88d8973070",
   "lastOpenFiles": [
+    "Botany/📕 Closed Quests/Redbud Nursery Tour - Star Carroll.md",
+    "Botany/📜 Open Quests/Volunteering with Redbud Nursery.md",
+    "Botany/California Native Plants/CNPS/Naomi Fraga.md",
+    "Botany/California Native Plants/CNPS Redbud",
+    "Botany/California Native Plants/CNPS",
+    "Botany/California Native Plants/CNPS/California Botanical Garden Claremont.md",
     "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
-    "Botany/Naomi Fraga.md",
-    "California Botanical Garden Claremont.md",
     "Naomi Fraga.md",
     "Botany/Hydrozoning.md",
     "Botany/Floristics.md",
@@ -186,10 +202,8 @@
     "Botany/California Native Plants/Ames Gilbert.md",
     "Botany/California Native Plants/Nurseries/Native West Nursery.md",
     "Botany/California Native Plants/Nurseries/CNPC Redbud Nursery.md",
-    "Botany/📕 Closed Quests/Redbud Nursery Tour - Star Carroll.md",
     "Botany/📜 Open Quests/Soil Food Web - Wesley Sander - Auburn Library.md",
     "Botany/California Native Plants/Serpentine Gabbro.md",
-    "Serpentine/Gabbro.md",
     "Serpentine",
     "Serpintine",
     "Botany/California Native Plants/Nurseries",
@@ -197,12 +211,10 @@
     "Botany/📜 Open Quests",
     "Botany",
     "Botany/California Native Plants",
-    "_drafts",
     "assets/images/finding your vibe/steamuserimages-a.akamaihd.jpg",
     "assets/images/finding your vibe/red-dead-redemption-2-map.jpg.webp",
     "assets/images/finding your vibe/1000_F_537980864_xHE4dzX6BDQdEvj4nsiiRIHXa8Dl5KfZ.jpg",
     "assets/images/finding your vibe/red-dead-redemption-2-map.jpg",
-    "assets/images/finding your vibe",
     "assets/images/bio-photo.png",
     "assets/images/bio-photo-2.png",
     "assets/images/bio-photo-1.png",
