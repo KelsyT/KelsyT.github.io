@@ -1,6 +1,6 @@
 ---
 created: 2024-09-16T15:24
-date: 2024-09-16T16:13
+date: 2024-09-16T16:19
 ---
 https://www.youtube.com/watch?v=t30qQ9BQyG0
 
@@ -16,4 +16,6 @@ Julie defines "discovering" as finding a [[Population|population]] or population
 
 Specialists in a particular plant group: [[Taxonomists|taxonomists]] and [[Systematists|systematists]]. Experts in a particular regional flora: floristians. 
 
-Julie refers to the early explorers as "hay balers" as their primary duty was to find new plant with little regard for detailed note taking. With so many new plants to discover, they focused more on shipped as many plants back home as they could. 
+Julie refers to the early explorers as "hay balers" as their primary duty was to find new plant with little regard for detailed note taking. With so many new plants to discover, they focused more on shipping as many plants back home or eventually to the institutions as they could. Specialization in a genus or family became the norm in the mid to late 20th century; recent genetic analysis tools have deepened our understanding of relationships among species and groups, constructing a tree of life.
+
+Julie describes the field biologist handing off a sample to a guru, 
