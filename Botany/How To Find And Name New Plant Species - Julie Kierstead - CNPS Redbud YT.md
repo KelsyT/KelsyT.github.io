@@ -1,6 +1,6 @@
 ---
 created: 2024-09-16T15:24
-date: 2024-09-16T16:24
+date: 2024-09-16T16:29
 ---
 https://www.youtube.com/watch?v=t30qQ9BQyG0
 
@@ -18,4 +18,6 @@ Specialists in a particular plant group: [[Taxonomists|taxonomists]] and [[Syste
 
 Julie refers to the early explorers as "hay balers" as their primary duty was to find new plant with little regard for detailed note taking. With so many new plants to discover, they focused more on shipping as many plants back home or eventually to the institutions as they could. Specialization in a genus or family became the norm in the mid to late 20th century; recent genetic analysis tools have deepened our understanding of relationships among species and groups, constructing a tree of life.
 
-Julie describes field biologists finding a sample they thought was weird in a particular group, and then sending it off to a guru within academia. Perhaps the guru describes it, hands it off to a graduate student, publishes it with the field biologist (perhaps a florist in this case), or dismissing it as unremakrathis isn't anything special to the field biologists dismay.
+Julie describes field biologists finding a sample they thought was weird in a particular group, and then sending it off to a guru within academia. Perhaps the guru describes it, hands it off to a graduate student, publishes it with the field biologist (perhaps a florist in this case), or dismissing it as unremarkable much to field biologists dismay.
+
+Recently floristic work was seen as unfashionable, dismissed with "oh you're just a naturalist", the real botanist being the one doing systematic work, preferably with molecular tools. According to Julie this stigma is vanishing as of late, leading to symbiosis between floristics and systematicsthese two specializations thank to 
