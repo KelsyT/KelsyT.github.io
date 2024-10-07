@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "096dabed2b248cad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rioting/Youtube Hogwarts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b8f904475e7f13fe",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
-    "collapsed": true
+    "width": 388.5
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
+                "file": "Rioting/Youtube Hogwarts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
+                "file": "Rioting/Youtube Hogwarts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md"
+                "file": "Rioting/Youtube Hogwarts.md"
               }
             }
           }
@@ -185,11 +196,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a5d7a88d8973070",
+  "active": "096dabed2b248cad",
   "lastOpenFiles": [
+    "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
+    "Rioting/Youtube Hogwarts.md",
+    "Rioting",
     "Garden Planning.md",
     "Pasted image 20240916203253.png",
-    "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
     "Oakhaven Garden Planner",
     "Botany/📜 Open Quests/Volunteering with Redbud Nursery.md",
     "Botany/📕 Closed Quests/Redbud Nursery Tour - Star Carroll.md",
@@ -223,7 +236,6 @@
     "Botany/California Native Plants/Nurseries",
     "Botany/📕 Closed Quests",
     "Botany/📜 Open Quests",
-    "Botany",
     "assets/images/finding your vibe/steamuserimages-a.akamaihd.jpg",
     "assets/images/finding your vibe/red-dead-redemption-2-map.jpg.webp",
     "assets/images/finding your vibe/1000_F_537980864_xHE4dzX6BDQdEvj4nsiiRIHXa8Dl5KfZ.jpg",
