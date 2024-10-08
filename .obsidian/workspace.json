@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 388.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -196,7 +197,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "096dabed2b248cad",
+  "active": "50fc87a5c4a59995",
   "lastOpenFiles": [
     "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
     "Rioting/Youtube Hogwarts.md",
