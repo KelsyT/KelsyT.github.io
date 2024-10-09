@@ -65,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 388.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -146,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "096dabed2b248cad",
+  "active": "9e170ce8b1c052c0",
   "lastOpenFiles": [
     "Rioting/Youtube Hogwarts.md",
     "Rioting/2024-10-08.md",
