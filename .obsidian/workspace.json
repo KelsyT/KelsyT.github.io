@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50fc87a5c4a59995",
+  "active": "096dabed2b248cad",
   "lastOpenFiles": [
     "Rioting/Youtube Hogwarts.md",
     "Rioting/2024-10-08.md",
