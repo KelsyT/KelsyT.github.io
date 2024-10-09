@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rioting/Untitled.md",
+                "file": "Rioting/2024-10-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rioting/Untitled.md",
+                "file": "Rioting/2024-10-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rioting/Untitled.md",
+                "file": "Rioting/2024-10-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rioting/Untitled.md"
+                "file": "Rioting/2024-10-08.md"
               }
             }
           }
@@ -147,9 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "096dabed2b248cad",
+  "active": "50fc87a5c4a59995",
   "lastOpenFiles": [
     "Rioting/Youtube Hogwarts.md",
+    "Rioting/2024-10-08.md",
     "Rioting/Untitled.md",
     "Botany/California Native Plants/CNPS/Naomi Fraga.md",
     "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
@@ -181,7 +182,6 @@
     "Botany/California Native Plants/CCH.md",
     "Botany/California Native Plants/Calscape.md",
     "Botany/California Native Plants/Ames Gilbert.md",
-    "Botany/California Native Plants/Nurseries/Native West Nursery.md",
     "Serpentine",
     "Serpintine",
     "Botany/California Native Plants/Nurseries",

@@ -8,7 +8,16 @@
     }
   ],
   "editor:save-file": [],
-  "daily-notes:goto-next": [
+  "obsidian-fullscreen-plugin:fullscreen-focus": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "daily-notes": [
     {
       "modifiers": [
         "Mod",
