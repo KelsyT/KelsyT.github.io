@@ -7,5 +7,14 @@
       "key": "S"
     }
   ],
-  "editor:save-file": []
+  "editor:save-file": [],
+  "daily-notes:goto-next": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ]
 }
