@@ -136,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +149,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "096dabed2b248cad",
+  "active": "0e7e46c6f2de7393",
   "lastOpenFiles": [
     "Rioting/2024-10-08.md",
     "2024-10-11.md",
