@@ -4,49 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "eb7c1907018a07ec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5e34dece5fd63488",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README for Minimal Mistakes Jekyll theme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b19cebdd6accb052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-05-23-finding-your-vibe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fadb856ccc6c44e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-05-23-finding-your-vibe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "fe3b87c0992bfe95",
         "type": "tabs",
         "children": [
@@ -56,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template-posts/2010-01-07-post-standard.md",
+                "file": "2024-10-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8883795be0655777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-10-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b32c5ad2abb4ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template-posts/2010-01-07-post-standard.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template-posts/2010-01-07-post-standard.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template-posts/2010-01-07-post-standard.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -189,25 +171,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f6b363cadd4c6c9",
+  "active": "4b32c5ad2abb4ba7",
   "lastOpenFiles": [
-    "template-posts/2019-04-18-welcome-to-jekyll.md",
-    "template-posts/2010-03-07-post-link.md",
-    "template-posts/2010-02-05-post-quote.md",
-    "template-posts/2010-02-05-post-notice.md",
-    "template-posts/2010-01-08-post-chat.md",
-    "template-posts/2010-01-07-post-standard.md",
-    "template-posts/2010-01-07-post-modified.md",
-    "_drafts/2010-01-07-post-standard 1.md",
-    "_posts/2024-05-23-finding-your-vibe.md",
-    "_drafts",
-    "_posts/2019-04-18-template-post.md",
-    "README.md",
-    "_pages/about.md",
-    "_pages/year-archive.md",
-    "_pages/tag-archive.md",
-    "_pages/category-archive.md",
+    "2024-10-11.md",
     "conflict-files-obsidian-git.md",
+    "template-posts/2010-01-07-post-standard.md",
+    "template-posts/2024-08-11-outline-finding-your-vibe.md",
+    "systematics.md",
+    "Rioting/2024-10-08.md",
+    "Rioting/Youtube Hogwarts.md",
+    "Rioting",
+    "Pasted image 20240916203253.png",
+    "Garden Planning.md",
+    "Botany/California Native Plants/Nurseries/Native West Nursery.md",
+    "Botany/California Native Plants/Nurseries/CNPC Redbud Nursery.md",
+    "Botany/California Native Plants/CNPS/Naomi Fraga.md",
+    "Botany/California Native Plants/CNPS/California Botanical Garden Claremont.md",
+    "Botany/📜 Open Quests/Volunteering with Redbud Nursery.md",
+    "Botany/📜 Open Quests/Soil Food Web - Wesley Sander - Auburn Library.md",
+    "Botany/California Native Plants/World Flora Online.md",
+    "Botany/📕 Closed Quests/Redbud Nursery Tour - Star Carroll.md",
+    "Botany/California Native Plants/Wildflowers of Nevada and Placer Counties, California.md",
+    "Botany/California Native Plants/Wesley Sander.md",
+    "Botany/California Native Plants/Trees and Shrubs of Nevada and Placer Counties, California.md",
+    "Botany/California Native Plants/Star Carroll.md",
+    "Botany/California Native Plants/TrashPanadaPermaculture.md",
+    "Botany/California Native Plants/Nurseries",
+    "Botany/California Native Plants/Serpentine Gabbro.md",
+    "Botany/California Native Plants/Maidu Museum.md",
+    "Botany/California Native Plants/Keisha Ernst.md",
+    "Botany/California Native Plants/Julie Kierstead.md",
+    "Botany/California Native Plants/Jennifer Jewell.md",
+    "Botany/California Native Plants/CNPS",
+    "Botany/botany assets/Pasted image 20240916153250.jpg",
+    "Botany/📜 Open Quests",
+    "Botany/📕 Closed Quests",
+    "Botany/California Native Plants",
+    "Botany/botany assets",
+    "Botany",
+    "_drafts",
     "assets/images/finding your vibe/steamuserimages-a.akamaihd.jpg",
     "assets/images/finding your vibe/red-dead-redemption-2-map.jpg.webp",
     "assets/images/finding your vibe/red-dead-redemption-2-map.jpg",
@@ -216,17 +218,6 @@
     "_posts/finding your vibe/steamuserimages-a.akamaihd.jpg",
     "_posts/finding your vibe/red-dead-redemption-2-map.jpg.webp",
     "_posts/finding your vibe/red-dead-redemption-2-map.jpg",
-    "_posts/finding your vibe/finding your vibe.md",
-    "_posts/finding your vibe/1000_F_537980864_xHE4dzX6BDQdEvj4nsiiRIHXa8Dl5KfZ.jpg",
-    "_posts/finding your vibe",
-    "assets/images/bio-photo.png",
-    "assets/images/bio-photo-2.png",
-    "template-posts",
-    "README for Minimal Mistakes Jekyll theme.md",
-    "readme.md",
-    "_pages/404.md",
-    "assets/gifs/GraphView-ezgif.com-optimize.gif.crdownload",
-    "assets/gifs",
-    "assets/New folder"
+    "_posts/finding your vibe/1000_F_537980864_xHE4dzX6BDQdEvj4nsiiRIHXa8Dl5KfZ.jpg"
   ]
 }
