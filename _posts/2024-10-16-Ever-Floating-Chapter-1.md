@@ -1,6 +1,6 @@
 ---
 created: 2024-10-16T10:12
-date: 2024-10-16T21:53
+date: 2024-10-16T21:59
 ---
 
 Norman zipped up his yellow jumper, landed feet first into an E.V.A. suit and shut his eyes as he savored one last breath. *72 hours till I get back to this stinking air I seem to love.* As his lungs filled, the suit began to seal along his spine, slicone creeping its way up until it locked with a tickle at the nape of his neck. *Sometimes the seals didn't want to come undone.* As he continued inhaling, the suit depressed, closing in around him. Raising his right hand, he slapped on his air pump. The suit relaxed outward. Norman finally exhaled and opened his eyes.
@@ -11,7 +11,7 @@ The siren began shouting and Norman could feel the pressure on his body lifting 
 
 Norman still heard ringing though. *God I hate when it's quiet.*
 
-Norman felt light in The vacuum of space was uplifting, but had grown. Microgravity let him push off the floor of the airlock, floating towards the ceiling. He grabbed hold and then sent himself towards the door that led to the ship yard. Holding on to the wall with one hand and swinging the exit door open with the other, he found his eyes drawn to his latest assignment, the USS Ever Floating. *Where have I seen you before?* 
+The vacuum of space had once felt uplifting, but Norman grew weary of it. Microgravity let him push off the floor of the airlock, floating towards the ceiling. He grabbed hold and then sent himself towards the door that led to the ship yard. Holding on to the wall with one hand and swinging the exit door open with the other, he found his eyes drawn to his latest assignment, the USS Ever Floating. *Where have I seen you before?* 
 
 He pulled out his reflective warning flag and pushed off the exterior wall, drifting up towards the Burro's bottom. The Ever Floating was small for a cargo freighter with a pointed bow for navigating and sqaure aft for loading. *She mocks the relics that leveraged the wind to cut through waves. Unthinkable design now. Space calls for hulking monstrosities, not sleek blades like her. No, now all they cared about was if they could hold air.*
 
