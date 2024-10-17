@@ -1,6 +1,6 @@
 ---
 created: 2024-10-16T10:12
-date: 2024-10-16T21:59
+date: 2024-10-16T22:05
 ---
 
 Norman zipped up his yellow jumper, landed feet first into an E.V.A. suit and shut his eyes as he savored one last breath. *72 hours till I get back to this stinking air I seem to love.* As his lungs filled, the suit began to seal along his spine, slicone creeping its way up until it locked with a tickle at the nape of his neck. *Sometimes the seals didn't want to come undone.* As he continued inhaling, the suit depressed, closing in around him. Raising his right hand, he slapped on his air pump. The suit relaxed outward. Norman finally exhaled and opened his eyes.
@@ -17,5 +17,5 @@ He pulled out his reflective warning flag and pushed off the exterior wall, drif
 
 As he drifted through the yard he saw other technicians pushing and pulling themselves around other ships like pinballs. Most were due for maintanence, some needing cosmetic repairs, while others required complete overhauls. As long as Smile would pay, the contractors working on Neptune Nine would perform diligent, quick work. *We always work our asses off but never get a break. Maybe she's mine.*
  
-Norman approached the Burro's starboard side at an angle heading towards the bow. He pulled out his grapple hook, swung it around and hurled it towards a rung closer to the aft. The hook shot away from him with it's line following. He slapped a button near his wrist and then reached his hands towards the wall. His suit's exoskelton actiavetd as he absorbed as much of his momentum with his hands as he could. What momentum was left caused him to slide away from his hook along the smooth surface of the Burro's wall. He found the hook's line with his right hand, wraped it around his palm a few times, then pulled, feeling tension cinch tight and then release as he was sent hurling toward the direction of the hook.
+Norman approached the Burro's starboard side at an angle heading towards the bow. He grasped his grapple hook, which was tied to several dozen meters of carbon line wound in a reel at his hip. He swung the hook around and hurled it towards a rung closer to the aft. The hook shot away from him with it's line following. He slapped a button near his wrist and then reached his hands towards the wall. His suit's exoskelton actiavetd as he absorbed as much of his momentum with his hands as he could. What momentum was left caused him to slide away from his hook along the smooth surface of the Burro's wall. He found the hook's line with his right hand, wraped it around his palm a few times, then pulled, feeling tension cinch tight and then release as he was sent hurling toward the direction of the hook.
 
