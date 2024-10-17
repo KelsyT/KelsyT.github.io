@@ -11,7 +11,7 @@ The siren began shouting and Norman could feel the pressure on his body lifting 
 
 Norman still heard ringing though. *God I hate when it's quiet.*
 
-Norman felt light in The vacuum of space was uplifting, . Microgravity let him push off the floor of the airlock, floating towards the ceiling. He grabbed hold and then sent himself towards the door that led to the ship yard. Holding on to the wall with one hand and swinging the exit door open with the other, he found his eyes drawn to his latest assingment, the USS Ever Floating. *Where have I seen you before?* 
+Norman felt light in The vacuum of space was uplifting, but had grown. Microgravity let him push off the floor of the airlock, floating towards the ceiling. He grabbed hold and then sent himself towards the door that led to the ship yard. Holding on to the wall with one hand and swinging the exit door open with the other, he found his eyes drawn to his latest assingment, the USS Ever Floating. *Where have I seen you before?* 
 
 He pulled out his reflective warning flag and pushed off the exterior wall, drifting up towards the Burro's bottom. The Ever Floating was small for a cargo freighter with a pointed bow for navigating and sqaure aft for loading. *She mocks the relics that leveraged the wind to cut through waves. Unthinkable design now. Space calls for hulking monstrosities, not sleek blades like her. No, now all they cared about was if they could hold air.*
 
