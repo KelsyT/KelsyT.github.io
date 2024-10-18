@@ -11,7 +11,7 @@
   "editDurationPath": "edited_seconds",
   "enableEditDurationKey": true,
   "updateIntervalFrontmatterMinutes": 1,
-  "nonTypingEditingTimePercentage": 22,
+  "nonTypingEditingTimePercentage": 0,
   "enableSwitch": false,
   "switchKey": "timethings.switch",
   "switchKeyValue": "true"
