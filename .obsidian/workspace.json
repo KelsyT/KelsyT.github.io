@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-10-11-Ever-Floating-Outline.md",
+                "file": "_posts/2024-10-16-Ever-Floating-Chapter-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-11-Ever-Floating-Outline"
+              "title": "2024-10-16-Ever-Floating-Chapter-1"
             }
           }
         ],
@@ -174,13 +174,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "timethings:Activate view": false
     }
   },
   "active": "d731a6ec14e3325a",
   "lastOpenFiles": [
-    "_posts/2024-10-16-Ever-Floating-Chapter-1.md",
     "_posts/2024-10-11-Ever-Floating-Outline.md",
+    "_posts/2024-10-16-Ever-Floating-Chapter-1.md",
+    "_posts/2024-05-23-finding-your-vibe.md",
     "conflict-files-obsidian-git.md",
     "template-posts/2010-01-07-post-standard.md",
     "template-posts/2024-08-11-outline-finding-your-vibe.md",
@@ -207,7 +209,6 @@
     "Botany/California Native Plants/Serpentine Gabbro.md",
     "Botany/California Native Plants/Maidu Museum.md",
     "Botany/California Native Plants/Keisha Ernst.md",
-    "Botany/California Native Plants/Julie Kierstead.md",
     "Botany/California Native Plants/CNPS",
     "Botany/botany assets/Pasted image 20240916153250.jpg",
     "Botany/📜 Open Quests",

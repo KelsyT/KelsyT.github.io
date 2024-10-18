@@ -6,7 +6,7 @@
   "enableClock": true,
   "isUTC": false,
   "modifiedKeyName": "updated_at",
-  "modifiedKeyFormat": "YYYY-MM-DD[T]HH:mm:ss.SSSZ",
+  "modifiedKeyFormat": "",
   "enableModifiedKeyUpdate": false,
   "editDurationPath": "edited_seconds",
   "enableEditDurationKey": true,
