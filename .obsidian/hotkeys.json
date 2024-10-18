@@ -8,15 +8,6 @@
     }
   ],
   "editor:save-file": [],
-  "obsidian-fullscreen-plugin:fullscreen-focus": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "F"
-    }
-  ],
   "daily-notes": [
     {
       "modifiers": [
@@ -24,6 +15,15 @@
         "Shift"
       ],
       "key": "D"
+    }
+  ],
+  "obsidian-minimal-settings:toggle-minimal-focus-mode": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
     }
   ]
 }
