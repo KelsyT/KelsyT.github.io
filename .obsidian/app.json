@@ -1,5 +1,6 @@
 {
-  "showRibbon": false,
+  "showRibbon": true,
   "alwaysUpdateLinks": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "showInlineTitle": true
 }
