@@ -1,7 +1,7 @@
 ---
 created: 2024-10-11T17:02
-date: 2024-10-17T19:36
-edited_seconds: 20
+date: 2024-10-18T21:17
+edited_seconds: 50
 ---
 Sol, Neptune, Commercial, 77th year, Revision 6.
 
@@ -12,3 +12,5 @@ As Norman is performing a routine visual inspection of a Burro (Ever Floating, c
 Norman, having chosen loyalty to his King over his own virtues of honesty begins to grow cynical.
 
 Charles conducts forensic investigations of wrecks that have been salvaged from the warzone. Charles is showing a consultant the process of putting the pieces of the frigate back together with the intent on improving the inventory system. There are thousands of pieces to take into account, so anything that save Charles time is deeply appreciated. There are many wrecks for him to investigate after all. This recent one doesn't make sense though.
+
+In chaprter 1 we find an irritable Norman. He's an expert technician, but he's 
