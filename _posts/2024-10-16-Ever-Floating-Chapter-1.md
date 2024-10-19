@@ -1,7 +1,7 @@
 ---
 created: 2024-10-16T10:12
-date: 2024-10-18T19:41
-edited_seconds: 2380
+date: 2024-10-18T19:57
+edited_seconds: 2500
 ---
 
 Norman zipped up his yellow jumper, landed feet first into an E.V.A. suit and shut his eyes as he savored one last breath. *72 hours till I get back to this stinking air I seem to love.* As his lungs filled, the suit began to seal along his spine, slicone creeping its way up until it locked with a tickle at the nape of his neck. *Sometimes the seals didn't want to come undone.* As he continued inhaling, the suit depressed, closing in around him. Raising his right hand, he slapped on his air pump. The suit relaxed outward. Norman finally exhaled and opened his eyes.
@@ -20,4 +20,4 @@ As he drifted through the yard he saw other technicians pushing and pulling them
  
 Norman approached the Burro's starboard side at a shallow angle. He intended to enter though the aft, but was headed towards the bow. To shift his direction, he pulled out the grapple hook from a holster at his thigh. Whipping its center shaft to deploy the steel hooks, he hurled it towards a set of rungs closer to the aft. The hook shot away with its line following, unwinding from the reel at his hip. The hook caught hold just as his body slammed against the wall of the Burro. His suit's exoskeleton activated instantly to protect him, but the impact was minor. *I'm just left spinning uncontrollably, that's all. Good thing I don't usually get sick from this.* Norman grabbed the line, wrapped some of the slack around his right hand, then stuck out his tight fist. The line cinched tight around his palm as he forced his body to fly in the opposite direction. *Oh, I felt that one in the gut, probably shouldn't have pulled so hard.* The line became slack as he was sent hurling toward the direction of the hook. Before he got caught in the web of line, he slapped the reel at his waist and sent the line winding back, as well as the hook. It was flying at him in an arc, but he caught it within inches of caving in his helmet. *I thought I just polished you. You're looking tarnished.*
 
-Once he reached the set of rungs, he took a breathe and began climbing his way towards the sqaured edge of the aft. It was slow moving, as one mistake would send him spinning away again. *What I would give for a pair of mag boots. So a few fly off and crush some sorry sod inbetween a hull. Doesn't mean I'll be caught with my bloody boots untied!* As he moved along, he noted In the twenty minutes able to climb his way along the belly of the ship all the way around to the aft. At the squared edge
+Once he reached the set of rungs, he took a breathe and began climbing his way towards the sqaured edge of the aft. The rungs wraped horizontally around the entire length of the hull, incircling it from bow to aft. It was slow moving, as one mistake would send him spinning away again. *What I would give for a pair of mag boots. So a few fly off and crush some sorry sods inbetween a hull. Doesn't mean I'll be caught with my bloody boots untied!* As he In the twenty minutes able to climb his way along the belly of the ship all the way around to the aft. At the squared edge
