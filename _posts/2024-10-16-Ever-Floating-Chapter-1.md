@@ -1,12 +1,12 @@
 ---
 created: 2024-10-16T10:12
-date: 2024-10-18T21:02
-edited_seconds: 3730
+date: 2024-10-18T21:06
+edited_seconds: 3770
 ---
 
-Norman zipped up his yellow jumper, landed feet first into an E.V.A. suit and shut his eyes as he savored one last breath. *72 hours till I get back to this stinking air I seem to love.* He took a deep breathe. As his lungs filled, the suit began to seal along his spine, slicone creeping its way up until it locked with a tickle at the nape of his neck. *Sometimes the seals didn't want to come undone.* As he continued inhaling, the suit depressed, closing in around him. Raising his right hand, he slapped on his air pump. The suit relaxed outward. Norman finally exhaled and opened his eyes.
+Norman zipped up his yellow jumper, landed feet first into an E.V.A. suit and shut his eyes as he savored one last breath. *72 hours till I get back to this stinking air I seem to love.* He started taking a deep breathe. As his lungs filled, the suit began to seal along his spine, slicone creeping its way up until it locked with a tickle at the nape of his neck. *Sometimes the seals didn't want to come undone.* As he continued inhaling, the suit depressed, closing in around him. Raising his right hand, he slapped on his air pump. The suit relaxed outward. Norman finally exhaled and opened his eyes.
 
-*I swear these suits are getting heavier. But this damned wardrobe always was too bright.* He brought his hand up to sheild his eyes but the light was too diffused. Alongside him were several other E.V.A. suits strapped to the worn octagonal hull walls of the crampt cabin. He swung open the door he faced and used hand holds to climb through the opening into the airlock. Norman swiped his keycard along the scanner, flicked the lock button, and after a short delay, the steel door behind him slammed closed. The room began to rattle as it depressurized. He wedged his boots into rungs at his feet and felt them squeze against the bottom of his wet socks. *Why's it so hot?*
+*I swear these suits are getting heavier. But this damned wardrobe always was too bright.* He brought his hand up to sheild his eyes but the light was too diffused. Alongside him were several other E.V.A. suits strapped to the worn octagonal hull walls of the crampt cabin. He swung open the door used the hand holds to pull himself into the airlock. Norman swiped his keycard along the scanner, flicked the lock button, and after a short delay, the steel door behind him slammed closed. The room began to rattle as it depressurized. He wedged his boots into rungs at his feet and felt them squeze against the bottom of his wet socks. *Why's it so hot?*
 
 The siren began shouting and Norman could feel the pressure atop his body lifting away. *Mag's expecting the carriage to be unloaded today. I do a favor for him last week and now he thinks I can cut through red tape with every Burro!* The air seemed to hiss as it was sent off. The pulsing lights turned from white to yellow. The siren halted abruptly, becoming an echo and then disappering, leaving only silence.
 
