@@ -1,7 +1,7 @@
 ---
 created: 2024-10-16T10:12
-date: 2024-10-18T20:17
-edited_seconds: 2940
+date: 2024-10-18T20:22
+edited_seconds: 3010
 ---
 
 Norman zipped up his yellow jumper, landed feet first into an E.V.A. suit and shut his eyes as he savored one last breath. *72 hours till I get back to this stinking air I seem to love.* As his lungs filled, the suit began to seal along his spine, slicone creeping its way up until it locked with a tickle at the nape of his neck. *Sometimes the seals didn't want to come undone.* As he continued inhaling, the suit depressed, closing in around him. Raising his right hand, he slapped on his air pump. The suit relaxed outward. Norman finally exhaled and opened his eyes.
@@ -12,11 +12,11 @@ The siren began shouting and Norman could feel the pressure atop his body liftin
 
 Norman still heard ringing though. *God I hate when it's quiet.*
 
-The vacuum of space had once felt uplifting, but Norman grew weary of it in spite of it's weightlessness. Microgravity let him push off the floor of the airlock, floating towards the ceiling. He grabbed hold and then sent himself towards the door that led to the ship yard. Holding on to the wall with one hand and swinging the exit door open with the other, he found his eyes drawn to his latest assignment, the USS Ever Floating. *Where have I seen you before?* 
+The vacuum of space had once felt uplifting, but Norman grew weary of it in spite of it's weightlessness. Microgravity let him push off the floor of the airlock, floating towards the ceiling. He grabbed hold and then sent himself towards the door to the ship yard. Holding on to the wall with one hand and swinging the door open with the other, he found his eyes drawn to his latest assignment, the USS Ever Floating. *Where have I seen you before?* 
 
 He pulled out his reflective warning flag and pushed off the exterior wall, drifting up towards the Burro's bottom with a slight spin. The Ever Floating was small for a cargo freighter. It had a pointed bow for navigating and sqaure aft for loading. *She mocks the relics that leveraged the wind to cut through waves. Unthinkable design now. Space calls for hulking monstrosities, not sleek blades like her. No, now all they cared about was if they could hold air.*
 
-As he drifted through the yard he saw other technicians pushing and pulling themselves around other ships like pinballs. Most were due for maintanence, some needing cosmetic repairs, while others required complete overhauls. As long as Smile would pay, the contractors working on Neptune Nine would perform diligent, quick work. *We always work our asses off but never get a break. Maybe she's mine.*
+As he drifted through the yard he saw other technicians pushing and pulling themselves around the other Burros like pinballs. Most were due for maintanence, some needing cosmetic repairs, while others required complete overhauls. As long as Smile would pay, the contractors working on Neptune Nine would perform diligent, quick work. *We always work our asses off but never get a break. Maybe she's mine.*
  
 Norman approached the Burro's starboard side at a shallow angle, squinting for rungs to grab hold of. He intended to enter though the aft, but was headed towards the bow. To shift his direction, he pulled out the grapple hook from a holster at his thigh. Whipping its center shaft to deploy the steel hooks, he hurled it towards a set of rungs closer to the aft. *Damn those are small.* The hook shot away with its line following, unwinding from the reel at his hip. The hook caught hold just as his body slammed against the hull of the Burro. His suit's exoskeleton activated instantly to protect him, but the impact was minor. *I'm just left spinning uncontrollably, that's all. Good thing I don't usually get sick from this.* Norman grabbed the line, wrapped some of the slack around his right hand, then stuck out his tight fist. The line cinched tight around his palm as he forced his body to fly in the opposite direction. *Oh, I felt that one in the gut, probably shouldn't have pulled so hard.* The line became slack as he was sent hurling toward the direction of the hook. Before he got caught in the web of line, he slapped the reel at his waist and sent the line winding back, as well as the hook. It was flying at him in an arc, but he caught it within inches of caving in his helmet. *I thought I just polished you. You're looking tarnished.*
 
