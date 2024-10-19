@@ -1,7 +1,7 @@
 ---
 created: 2024-10-16T10:12
-date: 2024-10-18T18:31
-edited_seconds: 270
+date: 2024-10-18T18:36
+edited_seconds: 390
 ---
 
 Norman zipped up his yellow jumper, landed feet first into an E.V.A. suit and shut his eyes as he savored one last breath. *72 hours till I get back to this stinking air I seem to love.* As his lungs filled, the suit began to seal along his spine, slicone creeping its way up until it locked with a tickle at the nape of his neck. *Sometimes the seals didn't want to come undone.* As he continued inhaling, the suit depressed, closing in around him. Raising his right hand, he slapped on his air pump. The suit relaxed outward. Norman finally exhaled and opened his eyes.
@@ -18,6 +18,6 @@ He pulled out his reflective warning flag and pushed off the exterior wall, drif
 
 As he drifted through the yard he saw other technicians pushing and pulling themselves around other ships like pinballs. Most were due for maintanence, some needing cosmetic repairs, while others required complete overhauls. As long as Smile would pay, the contractors working on Neptune Nine would perform diligent, quick work. *We always work our asses off but never get a break. Maybe she's mine.*
  
-Norman approached the Burro's starboard side at an angle heading towards the bow. He grasped his grapple hook, swung it around and hurled it towards a rung closer to the aft. The hook shot away from him with it's line following. *Let's get acquanted.* His suit's exoskeleton activated as he slammed against the wall, trying to absorbed any momentum with his hands. Sliding along the Burro's wall. He found the hook's line with his right hand, wrapped it around his palm a few times, then pulled, feeling tension cinch tight as the line went taught. He felt his insides slow, and then quickly reverse direction. The line became slack as he was sent hurling toward the direction of the hook. Before Norman got caught in the line he heading towards, he slapped the reel at his waist and the line immediately became taught as it wound itself back around the reel. The hook was flying at him like a bullet, but he caught it before it caved in his chest.
+Norman approached the Burro's starboard side at an angle heading towards the bow. He grasped his grapple hook, swung it around and hurled it towards a rung closer to the aft. The hook shot away with it's line following. His suit's exoskeleton activated as his body slammed against the wall. He tried to absorb the momentum with his hands. Sliding along the Burro's wall. He found the hook's line with his right hand, wrapped it around his palm a few times, then pulled, feeling tension cinch tight as the line went taught. He felt his insides slow, and then quickly reverse direction. The line became slack as he was sent hurling toward the direction of the hook. Before Norman got caught in the line he heading towards, he slapped the reel at his waist and the line immediately became taught as it wound itself back around the reel. The hook was flying at him like a bullet, but he caught it before it caved in his chest.
 
 **
