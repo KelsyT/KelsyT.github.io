@@ -1,7 +1,7 @@
 ---
 created: 2024-10-11T17:02
-date: 2024-10-18T21:17
-edited_seconds: 50
+date: 2024-10-18T21:19
+edited_seconds: 120
 ---
 Sol, Neptune, Commercial, 77th year, Revision 6.
 
@@ -13,4 +13,4 @@ Norman, having chosen loyalty to his King over his own virtues of honesty begins
 
 Charles conducts forensic investigations of wrecks that have been salvaged from the warzone. Charles is showing a consultant the process of putting the pieces of the frigate back together with the intent on improving the inventory system. There are thousands of pieces to take into account, so anything that save Charles time is deeply appreciated. There are many wrecks for him to investigate after all. This recent one doesn't make sense though.
 
-In chaprter 1 we find an irritable Norman. He's an expert technician, but he's 
+In chaprter 1 we find an irritable Norman. He's an expert technician getting ready for another mundane day aboard the Neptune Nine, but he's focusing on small details that normally don't bother him or even exist. Something happened prior to this shift, and it's affecting him.
