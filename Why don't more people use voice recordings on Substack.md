@@ -1,7 +1,7 @@
 ---
 created: 2024-11-18T17:42
-date: 2024-11-18T18:59
-edited_seconds: 860
+date: 2024-11-18T19:04
+edited_seconds: 1090
 ---
 Hi fellow stackers,
 
@@ -9,7 +9,7 @@ I'm Kelsy, and I'm new to this particular stack. I first found this place after 
 
 Immediatly this place seemed a lot healthier than other places I've seen, like Instagram and Twitter/X. It seems, according to Substack's offical messages, that with over 4 million paid subscribers, this app has cultivated an audience that supports writers. I love that. 
 
-Obvisouly the world of writing and reading is changing. Print is going out of, well, print, and people, such as myself, are consuming content digitally on a device that sits our pockets most of the day. Personally, listening instead of reading.
+Obvisouly the world of writing and reading is changing. Print is going out of, well, print, and people, such as myself, are consuming content digitally on a device that sits our pockets most of the day. Most of the time I'm using my phone I'm at work. I can't read at work, but I love listening to people at work. It can really brighten my day and boost my mood when I see people trying to be better, giving effort to make the world a better place. the spoken word at workdon't have time to readfind reading on my phone to beI can't wait for the day of an eink phone without comprmise. listening instead of reading.
 
 This brings me to my question of the day: why don’t you use the voiceover feature on your posts? Are the AI voiceovers automatic? I think the AI voice over is pretty bad. I understand that helps those who can’t read. But don’t most devices have a text to speech option built in now? 
 
