@@ -1,7 +1,7 @@
 ---
 created: 2024-11-18T17:42
-date: 2024-11-18T19:14
-edited_seconds: 1580
+date: 2024-11-18T19:19
+edited_seconds: 1830
 ---
 Hi fellow stackers,
 
@@ -17,7 +17,11 @@ Perhaps the AI voice is good for accesiblity to those who need it from authors w
 
 But for most of you, I think it's a waste not to use this feature, even if it's on posts without a paywall. I see Elle Graiffen puts the voiceover behind a paywall for some posts, but for the truly free posts she uses the AI voice.
 
-The reason I care about this brings me back to how little I'm able to read what you have to say most of the time I'm going to be on my phone. Once I get home, I don't want to be on any social media. Granted, that could change if my job was different. I am currently writing this at home, but that's _writing, not reading._ If I'm at home and I'm reading, I'm more likley to read a book you've published, or much more likely, I'm reading one of the thousands of other books that I was supposed to have read a decade ago, but am only But for now, I wish I could listen to you instead of being forced to either read or listen to an AI that gives me the creeps.
+The reason I care about this brings me back to how little I'm able to read what you have to say most of the time I'm going to be on my phone. Once I get home, I don't want to be on any social media. Granted, that could change if my job was different. I am currently writing this at home, but that's _writing, not reading._ If I'm at home and I'm reading, I'm more likley to read a book you've published, or much more likely, I'm reading one of the thousands of other books that I was supposed to have read a decade ago, but since I'm only hitting my literary peak now, 
+
+But for now, I wish I could listen to you instead of being forced to either read or listen to an AI that gives me the creeps. And don't tell me that you don't like the sound of your voice. I promise you with time that can change. We're talking expsoure therapy here, no matter how awful it may seem, eventually you will be able to speak into a microphone and play it back without cringing... the whole time. Serisouly though, the importance of your voice can't be understated. To some degree, it's what makes you a human here. I invite all of you who don't think that your audience will enjoy listening to you to try a voiceover. You may be surprised by how much people love it.
+
+And that's no surprise, since more people are listening to books than buying them these days. I've heard of romace authors writing books every couple of months, recording an audio book and then ewither 
 
 And this matters becuase it determines whether or not I continue to engage with Substack.
 
