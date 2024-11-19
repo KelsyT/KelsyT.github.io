@@ -1,13 +1,13 @@
 ---
 created: 2024-11-18T17:42
-date: 2024-11-18T18:49
-edited_seconds: 490
+date: 2024-11-18T18:54
+edited_seconds: 670
 ---
 Hi fellow stackers,
 
-I'm Kelsy, and I'm new to this particular stack. I found my way here after listening to _Jacked: The Outlaw Story of Grand Theft Auto_ by Daivd Kushner on Audible. I didn't stay long though, never downloaded the app. I just read a few emails from David, and eventually Substack drifted away until I found another writer by the name of Elle Griffin. I ocainslly read her emails, which usually asked for a subscription to Substack, though I never did subscribe. I just happily read her emails and enjoyed her writing. Sometimes she wrote about how she made money on Substack as a writer, and from that I was primed for when I'd eventually get a new phone and found myself finally downloading Substack. whatever free content I could get from her.
+I'm Kelsy, and I'm new to this particular stack. I first found this place after listening to _Jacked: The Outlaw Story of Grand Theft Auto_ by Daivd Kushner on Audible. I didn't stay long though, never downloaded the app. I just read a few emails from David, and eventually Substack drifted away until I found another writer by the name of Elle Griffin. I ocasionally read her emails, which often promtped me for a subscription to her on Substack. I never did. I just happily read her emails and enjoyed whatever free writing she sent my way. Years went by, I got a new phone and I finally found myself downloading Substack.
 
-I love this place is full of writers
+Immediatly this place seemed a lot healthier than other places I've seen, like Instagram and Twitter/X. It seems, according to Substacks offical messages, that with over 4 million paid subscribvers, this app hI love this place is full of writers
 
 I've got a question for you: why don’t you use the voiceover feature on your posts? Are the AI voiceovers automatic? I think the AI voice over is pretty bad. I understand that helps those who can’t read. But don’t most devices have a text to speech option built in now? 
 
