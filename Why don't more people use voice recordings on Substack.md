@@ -1,7 +1,7 @@
 ---
 created: 2024-11-18T17:42
-date: 2024-11-18T21:00
-edited_seconds: 2330
+date: 2024-11-18T21:11
+edited_seconds: 2340
 ---
 Hi fellow stackers,
 
@@ -27,7 +27,22 @@ Sincerely,
 
 Kelsy
 
+So, pros and cons:
 
+Pros:
+
+- Brings in an audience who may never be able to read your work
+    
+- Adds the warmth and expression of your voice to your words
+    
+
+Cons:
+
+- Time-consuming
+    
+- Costs of equipment
+    
+- Lacks SEO indexing?
 
 The reason I care about this brings me back to how little I'm able to read what you have to say most of the time I'm going to be on my phone. Once I get home, I don't want to be on any social media. Granted, that could change if my job was different. I am currently writing this at home, but that's _writing, not reading._ If I'm at home and I'm reading, I'm more likely to read a paper book you've published, or much more likely, one of the thousands of other books on my list.
 
