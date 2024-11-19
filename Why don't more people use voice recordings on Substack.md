@@ -1,7 +1,7 @@
 ---
 created: 2024-11-18T17:42
-date: 2024-11-18T19:04
-edited_seconds: 1090
+date: 2024-11-18T19:09
+edited_seconds: 1330
 ---
 Hi fellow stackers,
 
@@ -9,9 +9,15 @@ I'm Kelsy, and I'm new to this particular stack. I first found this place after 
 
 Immediatly this place seemed a lot healthier than other places I've seen, like Instagram and Twitter/X. It seems, according to Substack's offical messages, that with over 4 million paid subscribers, this app has cultivated an audience that supports writers. I love that. 
 
-Obvisouly the world of writing and reading is changing. Print is going out of, well, print, and people, such as myself, are consuming content digitally on a device that sits our pockets most of the day. Most of the time I'm using my phone I'm at work. I can't read at work, but I love listening to people at work. It can really brighten my day and boost my mood when I see people trying to be better, giving effort to make the world a better place. the spoken word at workdon't have time to readfind reading on my phone to beI can't wait for the day of an eink phone without comprmise. listening instead of reading.
+Obvisouly the world of writing and reading is changing. Print is going out of, well, print, and people, such as myself, are consuming content digitally on a device that sits our pockets most of the day. Most of the time I'm using my phone I'm at work. I can't read at work, but I love listening to people at work. It can really brighten my day and boost my mood when I hear your perspectives, stories and ideas.
 
-This brings me to my question of the day: why don’t you use the voiceover feature on your posts? Are the AI voiceovers automatic? I think the AI voice over is pretty bad. I understand that helps those who can’t read. But don’t most devices have a text to speech option built in now? 
+This brings me to the question: why don’t more of you use the voiceover feature here on substack? And I'm not talking about the automated AI voice. Granted, I know it will only get better, but as it stands, it's pretty uncanny and offputting. 
+
+Perhaps the AI voice is good for accesiblity to those who need it from authors who will not make voiceovers. I acknowldge that. 
+
+But for most of you, I think it's a waste not to use this feature, even if it's on posts without a paywall. I see Elle Graiffen puts the voiceover behind a paywall for some posts, but for the truly free posts she uses the AI voice.
+
+The reason I care about this 
 
 I suppose some form of audio is better than none, but the quality of the current sub stack AI voice is poor.
 
