@@ -1,11 +1,13 @@
 ---
 created: 2024-11-18T17:42
-date: 2024-11-18T18:44
-edited_seconds: 270
+date: 2024-11-18T18:49
+edited_seconds: 490
 ---
 Hi fellow stackers,
 
-I'm Kelsy, and I'm new to this particular stack. I found my way here after listening to _Jacked: The Outlaw Story of Grand Theft Auto_ by Daivd Kushner on Audible. I didn't stay long though, never downloaI love this place is full of writers
+I'm Kelsy, and I'm new to this particular stack. I found my way here after listening to _Jacked: The Outlaw Story of Grand Theft Auto_ by Daivd Kushner on Audible. I didn't stay long though, never downloaded the app. I just read a few emails from David, and eventually Substack drifted away until I found another writer by the name of Elle Griffin. I ocainslly read her emails, which usually asked for a subscription to Substack, though I never did subscribe. I just happily read her emails and enjoyed her writing. Sometimes she wrote about how she made money on Substack as a writer, and from that I was primed for when I'd eventually get a new phone and found myself finally downloading Substack. whatever free content I could get from her.
+
+I love this place is full of writers
 
 I've got a question for you: why don’t you use the voiceover feature on your posts? Are the AI voiceovers automatic? I think the AI voice over is pretty bad. I understand that helps those who can’t read. But don’t most devices have a text to speech option built in now? 
 
