@@ -1,11 +1,13 @@
 ---
 created: 2024-11-18T17:42
-date: 2024-11-18T18:34
-edited_seconds: 30
+date: 2024-11-18T18:39
+edited_seconds: 140
 ---
 Hi fellow stackers,
 
-I've got a question for you: why don’t more of you use the voice narration feature on your posts? Are the AI voiceovers automatic? I think the AI voice over is pretty bad. I understand that helps those who can’t read. But don’t most devices have a text to speech option built in now? 
+I'm Kelsy, and I'm new to the stack, well, this one anyway. I love this place is full of writers
+
+I've got a question for you: why don’t you use the voiceover feature on your posts? Are the AI voiceovers automatic? I think the AI voice over is pretty bad. I understand that helps those who can’t read. But don’t most devices have a text to speech option built in now? 
 
 I suppose some form of audio is better than none, but the quality of the current sub stack AI voice is poor.
 
