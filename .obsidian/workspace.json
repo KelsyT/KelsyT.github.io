@@ -102,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,7 +192,7 @@
       "timethings:Activate view": false
     }
   },
-  "active": "6f2e51cc323fc664",
+  "active": "50fc87a5c4a59995",
   "lastOpenFiles": [
     "Factorio Notes.md",
     "_posts/2024-10-16-Ever-Floating-Chapter-1.md",
