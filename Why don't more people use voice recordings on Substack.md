@@ -1,7 +1,7 @@
 ---
 created: 2024-11-18T17:42
-date: 2024-11-18T19:19
-edited_seconds: 1830
+date: 2024-11-18T19:24
+edited_seconds: 2060
 ---
 Hi fellow stackers,
 
@@ -17,17 +17,22 @@ Perhaps the AI voice is good for accesiblity to those who need it from authors w
 
 But for most of you, I think it's a waste not to use this feature, even if it's on posts without a paywall. I see Elle Graiffen puts the voiceover behind a paywall for some posts, but for the truly free posts she uses the AI voice.
 
-The reason I care about this brings me back to how little I'm able to read what you have to say most of the time I'm going to be on my phone. Once I get home, I don't want to be on any social media. Granted, that could change if my job was different. I am currently writing this at home, but that's _writing, not reading._ If I'm at home and I'm reading, I'm more likley to read a book you've published, or much more likely, I'm reading one of the thousands of other books that I was supposed to have read a decade ago, but since I'm only hitting my literary peak now, 
+The reason I care about this brings me back to how little I'm able to read what you have to say most of the time I'm going to be on my phone. Once I get home, I don't want to be on any social media. Granted, that could change if my job was different. I am currently writing this at home, but that's _writing, not reading._ If I'm at home and I'm reading, I'm more likley to read a paper book you've published, or much more likely, one of the thousands of other books on my list.
 
-But for now, I wish I could listen to you instead of being forced to either read or listen to an AI that gives me the creeps. And don't tell me that you don't like the sound of your voice. I promise you with time that can change. We're talking expsoure therapy here, no matter how awful it may seem, eventually you will be able to speak into a microphone and play it back without cringing... the whole time. Serisouly though, the importance of your voice can't be understated. To some degree, it's what makes you a human here. I invite all of you who don't think that your audience will enjoy listening to you to try a voiceover. You may be surprised by how much people love it.
+You may think I'm a special case, but I think I represent a lot of people that will join this community.
 
-And that's no surprise, since more people are listening to books than buying them these days. I've heard of romace authors writing books every couple of months, recording an audio book and then ewither 
+I'd rather listen to you than AI that gives me the creeps. 
+
+And don't tell me that you don't like the sound of your voice. I promise you with time that can change. We're talking expsoure therapy here, no matter how awful it may seem, eventually you will be able to speak into a microphone and play it back without cringing... the whole time. Serisouly though, the importance of your voice can't be understated. To some degree, it's what makes you a human here. I invite all of you who don't think that your audience will enjoy listening to you to try a voiceover. You may be surprised by how much people love it.
+
+And that's no surprise, since more people are listening to books than buying them these days. I've heard of romace authors writing books every couple of months, recording an audio book and then either using Audible or Youtube to make a decent amount of money. That's just annocedotle though. 
 
 And this matters becuase it determines whether or not I continue to engage with Substack.
 
-I suppose some form of audio is better than none, but the quality of the current sub stack AI voice is poor.
+If Substack had a filter for posts that have recorded voiceovers, I'd hit autoplay on that and listen through my whole work shift. I love hearing the author read their posts. And I'd probably be more likley to subscribe being able to 
 
-I wish sub stack had a filter for posts that have real recorded voice for the audio. I love hearing the author read their posts. Some dislike audiobooks that are narrated but the author, which may be fair (unless we’re discussing Stephen Fry), but I enjoy hearing the voice behind the author. 
+
+Some dislike audiobooks that are narrated but the author, which may be fair (unless we’re discussing Stephen Fry), but I enjoy hearing the voice behind the author. 
 
 Substack seems to be all about the writing, which is fantastic since most other places online push video now. But it must be said that most people *listen* to books as opposed to *reading*. I too listen more than I read. 
 
