@@ -1,7 +1,7 @@
 ---
 created: 2024-11-18T17:42
-date: 2024-11-18T19:24
-edited_seconds: 2060
+date: 2024-11-18T19:27
+edited_seconds: 2240
 ---
 Hi fellow stackers,
 
@@ -27,12 +27,11 @@ And don't tell me that you don't like the sound of your voice. I promise you wit
 
 And that's no surprise, since more people are listening to books than buying them these days. I've heard of romace authors writing books every couple of months, recording an audio book and then either using Audible or Youtube to make a decent amount of money. That's just annocedotle though. 
 
-And this matters becuase it determines whether or not I continue to engage with Substack.
+And this matters becuase it determines whether or not I continue to engage with Substack. If I continue to press that play button aobve posts, and I continue to hear that sad AI read your thoughtfully written post and then back out before either trying to find another post or just going back a podcast or YouTube, I may eventuall stop using Substack all together. That's not a threat, it's a plea for you to being your voice to my ear.
 
-If Substack had a filter for posts that have recorded voiceovers, I'd hit autoplay on that and listen through my whole work shift. I love hearing the author read their posts. And I'd probably be more likley to subscribe being able to 
+If Substack had a filter for posts that have recorded voiceovers, I'd hit autoplay on that and listen through my whole work shift. I love hearing the author read their posts. And I'd probably be more likley to subscribe being able to hear you speak. The human voice connects us to one another. It brings warmth and emotional depth. 
 
-
-Some dislike audiobooks that are narrated but the author, which may be fair (unless we’re discussing Stephen Fry), but I enjoy hearing the voice behind the author. 
+I'm sure many of you already understand the power the our voices bring to our writing. 
 
 Substack seems to be all about the writing, which is fantastic since most other places online push video now. But it must be said that most people *listen* to books as opposed to *reading*. I too listen more than I read. 
 
