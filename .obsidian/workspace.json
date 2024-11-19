@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factorio Notes.md",
+                "file": "Why don't more people use voice recordings on Substack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Factorio Notes"
+              "title": "Why don't more people use voice recordings on Substack"
             }
           }
         ],
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -192,9 +193,11 @@
       "timethings:Activate view": false
     }
   },
-  "active": "50fc87a5c4a59995",
+  "active": "6f2e51cc323fc664",
   "lastOpenFiles": [
     "Factorio Notes.md",
+    "Why don't more people use voice recordings on Substack.md",
+    "Unconfirmed 780985.crdownload",
     "_posts/2024-10-16-Ever-Floating-Chapter-1.md",
     "_posts/2024-10-11-Ever-Floating-Outline.md",
     "_posts/2024-05-23-finding-your-vibe.md",
@@ -222,7 +225,6 @@
     "Botany/California Native Plants/TrashPanadaPermaculture.md",
     "Botany/California Native Plants/Nurseries",
     "Botany/California Native Plants/Serpentine Gabbro.md",
-    "Botany/California Native Plants/Maidu Museum.md",
     "Botany/California Native Plants/CNPS",
     "Botany/botany assets/Pasted image 20240916153250.jpg",
     "Botany/📜 Open Quests",
@@ -235,7 +237,6 @@
     "assets/images/finding your vibe/red-dead-redemption-2-map.jpg.webp",
     "assets/images/finding your vibe/red-dead-redemption-2-map.jpg",
     "assets/images/finding your vibe/1000_F_537980864_xHE4dzX6BDQdEvj4nsiiRIHXa8Dl5KfZ.jpg",
-    "assets/images/finding your vibe",
     "_posts/finding your vibe/steamuserimages-a.akamaihd.jpg",
     "_posts/finding your vibe/red-dead-redemption-2-map.jpg.webp",
     "_posts/finding your vibe/red-dead-redemption-2-map.jpg",
