@@ -1,11 +1,11 @@
 ---
 created: 2024-11-18T17:42
-date: 2024-11-18T18:39
-edited_seconds: 140
+date: 2024-11-18T18:44
+edited_seconds: 270
 ---
 Hi fellow stackers,
 
-I'm Kelsy, and I'm new to the stack, well, this one anyway. I love this place is full of writers
+I'm Kelsy, and I'm new to this particular stack. I found my way here after listening to _Jacked: The Outlaw Story of Grand Theft Auto_ by Daivd Kushner on Audible. I didn't stay long though, never downloaI love this place is full of writers
 
 I've got a question for you: why don’t you use the voiceover feature on your posts? Are the AI voiceovers automatic? I think the AI voice over is pretty bad. I understand that helps those who can’t read. But don’t most devices have a text to speech option built in now? 
 
