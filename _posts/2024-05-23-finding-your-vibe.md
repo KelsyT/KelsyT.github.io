@@ -1,6 +1,6 @@
 ---
 created: 2024-05-09T20:00
-date: 2024-08-11T19:42
+date: 2024-11-10T16:50
 title: finding your vibe
 categories:
   - blog

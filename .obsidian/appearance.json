@@ -1,1 +1,7 @@
-{}
+{
+  "theme": "system",
+  "cssTheme": "Minimal",
+  "showViewHeader": false,
+  "baseFontSize": 17,
+  "baseFontSizeAction": true
+}

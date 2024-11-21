@@ -1,0 +1,18 @@
+{
+  "useCustomFrontmatterHandlingSolution": false,
+  "showEmojiStatusBar": false,
+  "clockFormat": "hh:mm A",
+  "updateIntervalMilliseconds": "1000",
+  "enableClock": true,
+  "isUTC": false,
+  "modifiedKeyName": "updated_at",
+  "modifiedKeyFormat": "",
+  "enableModifiedKeyUpdate": false,
+  "editDurationPath": "edited_seconds",
+  "enableEditDurationKey": true,
+  "updateIntervalFrontmatterMinutes": 1,
+  "nonTypingEditingTimePercentage": 0,
+  "enableSwitch": false,
+  "switchKey": "timethings.switch",
+  "switchKeyValue": "true"
+}

@@ -1,3 +1,7 @@
+---
+created: 2024-08-10T17:35
+date: 2024-11-10T16:49
+---
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).

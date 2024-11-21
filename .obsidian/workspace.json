@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "096dabed2b248cad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-10-11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-10-11"
-            }
-          },
-          {
             "id": "33d4c19c553ee17f",
             "type": "leaf",
             "state": {
@@ -32,9 +18,77 @@
               "icon": "lucide-file",
               "title": "Release Notes 1.7.4"
             }
+          },
+          {
+            "id": "5f7316d062576c49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-10-16-Ever-Floating-Chapter-1.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-16-Ever-Floating-Chapter-1"
+            }
+          },
+          {
+            "id": "fdacdeb7faa696f8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
+            "id": "a50ffe88dfa15901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cell Interactive.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cell Interactive"
+            }
+          },
+          {
+            "id": "151d256a0ca92f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Where does cancer start.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Where does cancer start"
+            }
+          },
+          {
+            "id": "d704793afff40496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Where does cancer start.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Where does cancer start"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -91,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 388.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -107,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-11.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-10-11"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -126,12 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-10-11.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-11"
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           },
           {
@@ -153,10 +208,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-11.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-10-11"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           }
         ],
@@ -169,6 +224,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "timethings:Activate view": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,17 +233,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33d4c19c553ee17f",
+  "active": "d704793afff40496",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "gitignore.txt",
+    "gitignore.txt.crdownload",
+    "Where does cancer start.md",
+    "systematics.md",
+    "readme.md",
+    "Garden Planning.md",
+    "Factorio Notes.md",
     "Rioting/2024-10-08.md",
-    "2024-10-11.md",
     "Rioting/Youtube Hogwarts.md",
+    "Pasted image 20240916203253.png",
+    "Cell Interactive.md",
+    "_posts/2024-10-16-Ever-Floating-Chapter-1.md",
+    "_posts/2024-10-11-Ever-Floating-Outline.md",
+    "_posts/2024-05-23-finding-your-vibe.md",
+    "2024-10-11.md",
     "Rioting/Untitled.md",
     "Botany/California Native Plants/CNPS/Naomi Fraga.md",
     "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
     "Rioting",
-    "Garden Planning.md",
-    "Pasted image 20240916203253.png",
     "Oakhaven Garden Planner",
     "Botany/📜 Open Quests/Volunteering with Redbud Nursery.md",
     "Botany/📕 Closed Quests/Redbud Nursery Tour - Star Carroll.md",
@@ -199,24 +266,12 @@
     "Botany/Floristics.md",
     "Botany/California Native Plants/Julie Kierstead.md",
     "Botany/California Native Plants/Jennifer Jewell.md",
-    "systematics.md",
     "Botany/botany assets",
     "Botany/Taxonomists.md",
-    "Taxonomists.md",
-    "Botany/Species Planetarium.md",
     "Botany/botany assets/Pasted image 20240916153250.jpg",
-    "Botany/Systematists.md",
-    "Botany/California Native Plants/Star Carroll.md",
-    "Botany/California Native Plants/CNPS Redbud Chapter.md",
-    "Botany/California Native Plants/CNPS El Dorado Chapter.md",
-    "Botany/California Native Plants/CNPS.md",
-    "Botany/California Native Plants/CCH.md",
-    "Botany/California Native Plants/Calscape.md",
     "Serpentine",
     "Serpintine",
     "Botany/California Native Plants/Nurseries",
-    "Botany/📕 Closed Quests",
-    "Botany/📜 Open Quests",
     "assets/images/finding your vibe/steamuserimages-a.akamaihd.jpg",
     "assets/images/finding your vibe/red-dead-redemption-2-map.jpg.webp",
     "assets/images/finding your vibe/1000_F_537980864_xHE4dzX6BDQdEvj4nsiiRIHXa8Dl5KfZ.jpg",
