@@ -1,7 +1,7 @@
 ---
-edited_seconds: 440
+edited_seconds: 460
 created: 2024-11-20T19:17
-date: 2024-11-20T20:28
+date: 2024-11-20T20:49
 ---
 Where does cancer start?
 
@@ -25,3 +25,4 @@ There are many types of cancer within only humans:
 
 https://www.cell.com/cms/10.1016/j.cell.2018.03.022/asset/abdca216-7298-4156-bca2-1d03a5fd0529/main.assets/fx1_lrg.jpg
 
+There exsists such a place called the "tumor microenvironment". 
