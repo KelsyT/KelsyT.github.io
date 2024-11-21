@@ -11,7 +11,6 @@
   "enableExperimentalHash": false,
   "fileHashMap": {
     "_drafts/2010-01-07-post-standard 1.md": "aa7bae1479b8574c8e928e2b2f281192f52b170140da64c5b10adf287280b985",
-<<<<<<< HEAD
     "_posts/2024-05-23-finding-your-vibe.md": "9c3b4fcd1ed0d294b913f75fe06d93ee86184708b25cecd95dfb4f790899b4a3",
     "template-posts/2024-08-11-outline-finding-your-vibe.md": "2302300f1d1d4707fc920898f6f8a386a6e9d4bf67f5ea6d0efc86bd0475c14c",
     "Botany/California Native Plants/James M. André.md": "d3780dd902a9471a3bc9458189746120f9d7803f493094c81bca1f5a74ac2832",
@@ -53,14 +52,6 @@
     "_posts/2024-10-11-Ever-Floating-Outline.md": "28c295cf8d00631eb32e4029059c87f68f48cae7d58797dfbfaefc6e46b95481",
     "_posts/2024-10-16-Ever-Floating-Chapter-1.md": "f973d41889f9505d93bf9b74a0785f61873a786abc41af7a3492fe9fa77a27de",
     "Cell Interactive.md": "56e1aab563752e1af6eb8d6d5b42182aa19451d729357b57d854aaf0e332e01b",
-    "Where does cancer start.md": "3c3119f087d58cb7ff65910d2bc318a807c8e90f07352fe41512550204c9bbb4"
-=======
-    "_posts/2024-05-23-finding-your-vibe.md": "8fc7b7e3172b198e3851620c469107b003b2dbf926d37a286e33ef3099296c6a",
-    "README for Minimal Mistakes Jekyll theme.md": "c0938741d5a03a19d8b9e010248df83acd8ca289b942d34ad00451c429ef904a",
-    "_posts/2024-10-11-Ever-Floating-Outline.md": "e52552948e75bc6a0583a7c32d02df3380aaedb933069a65f0e89aa4df1cf60e",
-    "_posts/2024-10-16-Ever-Floating-Chapter-1.md": "962baab14a27ece690b5e53a732160e4ad1e5dc273fa745b48cd3b38d2af1dab",
-    "Factorio Notes.md": "2880655a273edd174b8d7014e4398d427f1a5bb11da53c475684be416e781f43",
-    "Why don't more people use voice recordings on Substack.md": "09e0342bd1198e3f7833988865bd581db7ed5fe5777a4a85e28e4acb6b107fdc"
->>>>>>> origin/master
+    "Where does cancer start.md": "565ceb3b845b5fe0d2c01ed9b4acd1f887fe85df8e79a0c6b768fc8049db7857"
   }
 }
