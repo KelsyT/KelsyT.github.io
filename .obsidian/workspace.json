@@ -8,87 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33d4c19c553ee17f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
-          },
-          {
-            "id": "5f7316d062576c49",
+            "id": "95db57632d093af2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-10-16-Ever-Floating-Chapter-1.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-10-16-Ever-Floating-Chapter-1"
-            }
-          },
-          {
-            "id": "fdacdeb7faa696f8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
-          },
-          {
-            "id": "a50ffe88dfa15901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cell Interactive.md",
+                "file": "Soil Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cell Interactive"
-            }
-          },
-          {
-            "id": "151d256a0ca92f81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Where does cancer start.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Where does cancer start"
-            }
-          },
-          {
-            "id": "d704793afff40496",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Where does cancer start.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Where does cancer start"
+              "title": "Soil Science"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
-    "collapsed": true
+    "width": 388.5
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -232,8 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d704793afff40496",
+  "active": "95db57632d093af2",
   "lastOpenFiles": [
+    "Where does cancer start.md",
+    "Cell Interactive.md",
+    "_posts/2024-10-16-Ever-Floating-Chapter-1.md",
+    "Soil Science.md",
     "assets/Study Data/Cancer Cells/mmc1.xlsx",
     "assets/Study Data/Cancer Cells/Unconfirmed 933920.crdownload",
     "assets/Study Data/Cancer Cells",
@@ -241,7 +177,6 @@
     "assets/Study Data",
     "assets/New folder",
     "conflict-files-obsidian-git.md",
-    "Where does cancer start.md",
     "Why don't more people use voice recordings on Substack.md",
     "gitignore.txt",
     "gitignore.txt.crdownload",
@@ -252,8 +187,6 @@
     "Rioting/2024-10-08.md",
     "Rioting/Youtube Hogwarts.md",
     "Pasted image 20240916203253.png",
-    "Cell Interactive.md",
-    "_posts/2024-10-16-Ever-Floating-Chapter-1.md",
     "_posts/2024-10-11-Ever-Floating-Outline.md",
     "_posts/2024-05-23-finding-your-vibe.md",
     "2024-10-11.md",
@@ -264,7 +197,6 @@
     "Oakhaven Garden Planner",
     "Botany/📜 Open Quests/Volunteering with Redbud Nursery.md",
     "Botany/📕 Closed Quests/Redbud Nursery Tour - Star Carroll.md",
-    "Botany/California Native Plants/CNPS Redbud",
     "Botany/California Native Plants/CNPS/California Botanical Garden Claremont.md",
     "Naomi Fraga.md",
     "Botany/Hydrozoning.md",
