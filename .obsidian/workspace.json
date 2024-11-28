@@ -49,7 +49,8 @@
               "title": "PACER"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,10 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95db57632d093af2",
+  "active": "4a67b955430d2c00",
   "lastOpenFiles": [
-    "Teaming wtih microbes.md",
     "Soil.md",
+    "Teaming wtih microbes.md",
     "PACER.md",
     "Where does cancer start.md",
     "Cell Interactive.md",
