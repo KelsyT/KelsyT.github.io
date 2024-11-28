@@ -1,7 +1,7 @@
 ---
-edited_seconds: 750
+edited_seconds: 840
 created: 2024-11-27T15:27
-date: 2024-11-27T20:22
+date: 2024-11-27T20:27
 ---
 Preface
 
@@ -11,4 +11,6 @@ An integral notion of the gardening world is proposed: nitrogen from organic sou
 
 Scanning Electron Microscope images highlight a root-feeding nematode trapped within the rings of a fungal hypha. Another image shows a nematode entering the root wall of a tomato plant. 
 
-Consilience of microbiology, bacteriology, mycology, myrmecology, chemistry, agriculture has led to discoveries 
+Consilience of microbiology, bacteriology, mycology, myrmecology, chemistry, agriculture has led to discoveries in soil science that are being applied to commercial agriculture, silviculture and viniculture.
+
+The preface is concluded with the promise that, if the soil food web is nurtured, your plants will grow more easily and healthier
