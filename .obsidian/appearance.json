@@ -2,6 +2,6 @@
   "theme": "system",
   "cssTheme": "Minimal",
   "showViewHeader": false,
-  "baseFontSize": 17,
+  "baseFontSize": 15,
   "baseFontSizeAction": true
 }
