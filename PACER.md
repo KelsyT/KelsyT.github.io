@@ -1,12 +1,12 @@
 ---
-edited_seconds: 680
+edited_seconds: 700
 created: 2024-11-27T17:49
-date: 2024-11-27T18:42
+date: 2024-11-27T18:45
 ---
 When reading, you consume and digest. This method will help 
 
 **Procedural**: the steps to take in order to practice a skill.
-	Practice immediate.
+	Practice immediately.
 
 **Analogous**: Forming connections between new information and previous understanding.
 	Critique the analogy, trying to find where it succeeds to connect ideas, and where it fails, and if there are better analogies.
