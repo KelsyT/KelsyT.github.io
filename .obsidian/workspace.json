@@ -35,8 +35,7 @@
               "title": "PACER"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 388.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -179,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6ca18c87d7b19d3",
+  "active": "95db57632d093af2",
   "lastOpenFiles": [
     "PACER.md",
     "Teaming wtih microbes.md",

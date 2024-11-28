@@ -1,7 +1,7 @@
 {
   "showRibbon": true,
   "alwaysUpdateLinks": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "showInlineTitle": true,
   "pdfExportSettings": {
     "includeName": false,
