@@ -1,7 +1,7 @@
 ---
-edited_seconds: 110
+edited_seconds: 120
 created: 2024-12-08T20:50
-date: 2024-12-08T20:54
+date: 2024-12-08T20:55
 ---
 Look into financial aid, how many classes needed for BOG waiver.
 
