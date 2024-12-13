@@ -1,7 +1,7 @@
 ---
-edited_seconds: 1850
+edited_seconds: 1950
 created: 2024-12-12T17:11
-date: 2024-12-12T20:46
+date: 2024-12-12T20:51
 ---
 
 Hello Diane,
@@ -10,7 +10,7 @@ I'll start with the blurb about myself!
 
 **About me**
 
-I'm Kelsy T. Sparling, and I'm from Auburn, born and raised. I've always been attracted to technology, only finding interest in plants much later in my life. I can thank my wife Ashcat for contributing to that.
+I'm Kelsy T. Sparling, and I'm from Auburn, born and raised. I grew up fascinated by technology, only finding interest in the natural world and plants much later in my life. I can thank my wife Ashcat for contributing to that.
 
 My current job is challenging, which I appreciate, but it's also disconnected from what I feel is becoming important in my life. That's sunlight, using my body, connecting with the natural world and the food that I eat. I'm also obsessed with systems and optimization, though I imagine I won't be managing the farm any time soon! 
 
@@ -22,7 +22,9 @@ I've also been interviewing a professional soil scientist in order to better gra
 
 **Answering your questions**
 
-I've attached the resume like you've asked. I can work full-time, and the soonest I can start is January 27th. I'm not sure which days I will be available, as I'm waiting for my wife's new schedule to be determined. Also, I plan on enrolling into college for the fall semester of 2025 and will need to reduce my hours at that point.
+I've attached the resume like you've asked. For availability, I can work full-time, and the soonest I can start is January 27th. I'm not sure which days I will be available, as I'm waiting for my wife's new schedule to be determined. Also, I plan on enrolling into college for the fall semester of 2025 and will need to reduce my hours at that point.
+
+I'm available for a working interview any day after 3pm, or weekends at your convenience.
 
 **My questions**
 
