@@ -1,7 +1,7 @@
 ---
-edited_seconds: 1770
+edited_seconds: 1850
 created: 2024-12-12T17:11
-date: 2024-12-12T20:41
+date: 2024-12-12T20:46
 ---
 
 Hello Diane,
@@ -22,13 +22,13 @@ I've also been interviewing a professional soil scientist in order to better gra
 
 **Answering your questions**
 
-I've attached the resume like you've asked. The soonest I can start is January 27th. By mid January I should know which days I can work as I'm waiting for my wife's new schedule to be determined. I do plan on enrolling into college for the fall of 2025 and will need to reduce my hours at that point, ideally working weekends if possible, but will remain flexible.
+I've attached the resume like you've asked. I can work full-time, and the soonest I can start is January 27th. I'm not sure which days I will be available, as I'm waiting for my wife's new schedule to be determined. Also, I plan on enrolling into college for the fall semester of 2025 and will need to reduce my hours at that point.
 
 **My questions**
 
 How much are you offering for this position? What days and hours are you looking to fill?
 
-I hope I do get to do a working interview, but if not, I look forward to coming to the farm stand soon for some fresh veggies.
+I hope we do meet for a working interview. Either way, I look forward to coming to the farm stand soon for some fresh veggies.
 
 Thank you for your time and consideration,
 Kelsy
