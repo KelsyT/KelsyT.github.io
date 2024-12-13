@@ -1,7 +1,7 @@
 ---
-edited_seconds: 2130
+edited_seconds: 2200
 created: 2024-12-12T17:11
-date: 2024-12-12T20:57
+date: 2024-12-12T20:58
 ---
 
 Hello Diane,
@@ -18,7 +18,7 @@ My current job is challenging, which I appreciate, but it's also disconnected fr
 
 I've steadily become more and more interested in agriculture over the years. As you know my wife has farmed so I got a taste of *the life* when visiting Michael and Shannon's farm. 
 
-I care about how my food is grown, it's nutritional value, and where it comes from. I've recently began volunteering at the California Native Plant Society Redbud chapter nursery in Grass Valley to reconnect with plants and learn what I can from the wise sages that run the place. I've made some friends there  cherish the experience I get to partake in with them. One of those people is Wesley Sanders, a professional soil scientist I've been interviewing in order to better grasp the world under our feet. I'm also reading "Teaming with microbes" thanks to Michael and Shannon letting me borrow their copy. 
+I care about how my food is grown, it's nutritional value, and where it comes from. I've recently began volunteering at the California Native Plant Society Redbud chapter nursery in Grass Valley to reconnect with plants and learn what I can from the wise sages that run the place. I've made some friends since becoming a member, one of which is Wesley Sanders, a professional soil scientist. I've been interviewing him in order to better grasp the living world under our feet. I'm also reading "Teaming with microbes" thanks to Michael and Shannon letting me borrow their copy. 
 
 As I'll mention below, I'm going to go back to college in the fall of 2025, and my intention is to get a degree in microbiology. I'm deeply motivated by opportunities to learn and practice new skills.
 
