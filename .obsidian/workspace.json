@@ -104,9 +104,19 @@
               "icon": "lucide-file",
               "title": "PACER"
             }
+          },
+          {
+            "id": "437da9506a6eed16",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,13 +168,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
-    "collapsed": true
+    "width": 388.5
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -251,10 +259,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7751b4291fd6579c",
+  "active": "50fc87a5c4a59995",
   "lastOpenFiles": [
-    "Estate Notes.md",
+    "Apartment hunting",
     "Foothill Roots Email.md",
+    "Estate Notes.md",
     "School Plan w AshCat.md",
     "_posts/ramble",
     "_posts/2024-12-04-survival.md",
@@ -289,7 +298,6 @@
     "Rioting/Untitled.md",
     "Botany/California Native Plants/CNPS/Naomi Fraga.md",
     "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
-    "Botany/📜 Open Quests/Volunteering with Redbud Nursery.md",
     "Botany/botany assets/Pasted image 20240916153250.jpg",
     "assets/images/finding your vibe/steamuserimages-a.akamaihd.jpg",
     "assets/images/finding your vibe/red-dead-redemption-2-map.jpg.webp",
