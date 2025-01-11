@@ -109,10 +109,14 @@
             "id": "437da9506a6eed16",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Apartment hunting 1-10-25.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Apartment hunting 1-10-25"
             }
           }
         ],
@@ -172,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 388.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -259,8 +264,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50fc87a5c4a59995",
+  "active": "437da9506a6eed16",
   "lastOpenFiles": [
+    "Apartment hunting 1-10-25.md",
     "Apartment hunting",
     "Foothill Roots Email.md",
     "Estate Notes.md",
@@ -284,7 +290,6 @@
     "conflict-files-obsidian-git.md",
     "Why don't more people use voice recordings on Substack.md",
     "gitignore.txt",
-    "gitignore.txt.crdownload",
     "systematics.md",
     "readme.md",
     "Garden Planning.md",
