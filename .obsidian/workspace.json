@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,10 +222,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0682775de2602a13",
+  "active": "9a0099320c044fa1",
   "lastOpenFiles": [
-    "cover-letter-feedback.md",
     "Jobs/cover-letter.md",
+    "cover-letter-feedback.md",
     "Jobs/tailored-resume.md",
     "PACER.md",
     "Estate Notes.md",
