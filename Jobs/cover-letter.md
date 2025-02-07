@@ -1,8 +1,13 @@
+---
+edited_seconds: 110
+created: 2025-02-06T19:43
+date: 2025-02-06T20:16
+---
 Dear Hiring Manager,
 
-I am writing to express my strong interest in the Soil Technician/Field Representative position at ENGEO. I learned of this opportunity through Nick Broussard, and my background in construction and technical testing has given me a strong foundation for this role.
+I'm writing to express my desire for the Soil Technician/Field Representative position at ENGEO. My brother Adam Atiles put me into contact with Nick Broussard who referred me to ENGEO, and my background in construction and technical testing has given me a strong foundation for the position you're offering.
 
-My experience in construction includes hands-on work with site preparation and foundation construction that aligns directly with ENGEO's field representation needs. Working under a licensed contractor, I performed manual grading, constructed concrete forms to specification using measuring lines, and installed gravel fill and rebar grid arrays for foundations. This experience has given me practical knowledge of California building codes and a thorough understanding of the importance of precise measurements and quality control in construction.
+My experience in construction includes hands-on work with site preparation and foundation construction that aligns directly with ENGEO's field representation needs. Working under a licensed contractor (Kyle Letch of Fable construction ), I performed manual grading, constructed concrete forms to specification using measuring lines, and installed gravel fill and rebar grid arrays for foundations. This experience has given me practical knowledge of California building codes and a thorough understanding of the importance of precise measurements and quality control in construction.
 
 In my current position as an Electronics Technician II at Shyft Global Services, I have developed robust technical and analytical skills. I troubleshoot complex systems using both visual inspections and diagnostic tools, analyze error logs to identify root causes, and document findings clearly for stakeholders. I have also improved our quality control processes by developing new Standard Operating Procedures and creating automated tracking systems using Excel macros, demonstrating my commitment to continuous improvement and efficiency.
 

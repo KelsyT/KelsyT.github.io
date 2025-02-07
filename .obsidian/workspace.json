@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,8 +208,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "437da9506a6eed16",
+  "active": "0682775de2602a13",
   "lastOpenFiles": [
+    "Jobs/tailored-resume.md",
     "PACER.md",
     "Estate Notes.md",
     "Foothill Roots Email.md",
@@ -218,7 +219,6 @@
     "Teaming wtih microbes.md",
     "Soil.md",
     "Jobs/cover-letter.md",
-    "Jobs/tailored-resume.md",
     "Apartment hunting 1-10-25.md",
     "Jobs",
     "Apartment hunting",
