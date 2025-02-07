@@ -8,62 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95db57632d093af2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Soil.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Soil"
-            }
-          },
-          {
-            "id": "4a67b955430d2c00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teaming wtih microbes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Teaming wtih microbes"
-            }
-          },
-          {
-            "id": "23b0788efe2c442d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-12-04.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-04"
-            }
-          },
-          {
-            "id": "470183b34c732dc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School Plan w AshCat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "School Plan w AshCat"
-            }
-          },
-          {
             "id": "db48daa974d3844b",
             "type": "leaf",
             "state": {
@@ -75,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Estate Notes"
-            }
-          },
-          {
-            "id": "7751b4291fd6579c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foothill Roots Email.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Foothill Roots Email"
             }
           },
           {
@@ -111,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apartment hunting 1-10-25.md",
+                "file": "Jobs/tailored-resume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apartment hunting 1-10-25"
+              "title": "tailored-resume"
+            }
+          },
+          {
+            "id": "0682775de2602a13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jobs/cover-letter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cover-letter"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -266,18 +210,21 @@
   },
   "active": "437da9506a6eed16",
   "lastOpenFiles": [
-    "Apartment hunting 1-10-25.md",
-    "Apartment hunting",
-    "Foothill Roots Email.md",
+    "PACER.md",
     "Estate Notes.md",
+    "Foothill Roots Email.md",
     "School Plan w AshCat.md",
-    "_posts/ramble",
-    "_posts/2024-12-04-survival.md",
-    "_posts/2024-12-04-ramble-survival",
     "2024-12-04.md",
     "Teaming wtih microbes.md",
     "Soil.md",
-    "PACER.md",
+    "Jobs/cover-letter.md",
+    "Jobs/tailored-resume.md",
+    "Apartment hunting 1-10-25.md",
+    "Jobs",
+    "Apartment hunting",
+    "_posts/ramble",
+    "_posts/2024-12-04-survival.md",
+    "_posts/2024-12-04-ramble-survival",
     "Where does cancer start.md",
     "Cell Interactive.md",
     "_posts/2024-10-16-Ever-Floating-Chapter-1.md",
@@ -289,7 +236,6 @@
     "assets/New folder",
     "conflict-files-obsidian-git.md",
     "Why don't more people use voice recordings on Substack.md",
-    "gitignore.txt",
     "systematics.md",
     "readme.md",
     "Garden Planning.md",
@@ -300,9 +246,6 @@
     "_posts/2024-10-11-Ever-Floating-Outline.md",
     "_posts/2024-05-23-finding-your-vibe.md",
     "2024-10-11.md",
-    "Rioting/Untitled.md",
-    "Botany/California Native Plants/CNPS/Naomi Fraga.md",
-    "Botany/How To Find And Name New Plant Species - Julie Kierstead - CNPS Redbud YT.md",
     "Botany/botany assets/Pasted image 20240916153250.jpg",
     "assets/images/finding your vibe/steamuserimages-a.akamaihd.jpg",
     "assets/images/finding your vibe/red-dead-redemption-2-map.jpg.webp",
