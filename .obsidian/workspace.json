@@ -148,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
-    "collapsed": true
+    "width": 388.5
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -211,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Resignation letter at shyft.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Resignation letter at shyft"
             }
           }
         ],
