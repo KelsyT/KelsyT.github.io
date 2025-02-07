@@ -1,12 +1,12 @@
 ---
-edited_seconds: 30
+edited_seconds: 40
 created: 2025-02-06T19:42
 date: 2025-02-06T19:45
 ---
 Kelsy Sparling
 Auburn, CA
 kelsyterry@gmail.com
-(5303880416
+(530)-388-0416
 
 **PROFESSIONAL SUMMARY**
 Detail-oriented professional with demonstrated experience in construction, technical testing, and quality control. Strong background in foundation work and site preparation combined with expertise in precise measurement and documentation. Proven ability to work effectively in fast-paced environments while maintaining high standards of quality and safety.
