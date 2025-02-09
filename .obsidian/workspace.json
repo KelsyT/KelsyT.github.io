@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "Resignation letter at shyft"
             }
+          },
+          {
+            "id": "2093bf748906095c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -148,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 388.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dd550872d792bd6",
@@ -235,7 +248,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6bcf0034b66f4d3c",
+  "active": "2093bf748906095c",
   "lastOpenFiles": [
     "Resignation letter at shyft.md",
     "cover-letter-feedback.md",

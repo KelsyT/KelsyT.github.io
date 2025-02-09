@@ -3,5 +3,6 @@
   "cssTheme": "Minimal",
   "showViewHeader": false,
   "baseFontSize": 15,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showRibbon": true
 }
