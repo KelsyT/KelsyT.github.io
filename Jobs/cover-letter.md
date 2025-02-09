@@ -1,7 +1,7 @@
 ---
-edited_seconds: 470
+edited_seconds: 490
 created: 2025-02-06T19:43
-date: 2025-02-06T20:54
+date: 2025-02-08T19:02
 ---
 Dear Hiring Manager,
 
@@ -13,9 +13,11 @@ In my current position as an Electronics Technician II at Shyft Global Services,
 
 ENGEO stands out to me due to your commitment to employee development through mentorship and cross-training opportunities. In my current role, I have reached a ceiling in terms of professional growth, and I'm eager to join an organization that actively invests in its employees' development. Your approach to supporting additional certifications and providing paths for advancement strongly aligns with my desire to grow and build the value I can provide others.
 
-Recently I've been interviewing a soil microbiologist as a hobby to grow my understanding of plants as a volunteer of the CNPS. He's shown me how to take soil samples and identify the microbes under a microscope in his lab. While this isn't directly applicable to the role at ENGEO, I wanted to mention it so can get a glimpse of my desire to learn and practice scientific methods. My combination of construction experience and technical expertise provides a strong foundation for this role. I understand the critical importance of precise measurements and detailed documentation in construction, and I am eager to apply these skills in a new context. I am prepared to complete all necessary certifications, including the Nuclear Density Gauge certification, and am particularly interested in pursuing additional Special Inspections qualifications through your cross-training program.
+Recently I've been interviewing a soil microbiologist as a hobby to grow my understanding of plants as a volunteer of the CNPS. He's shown me how to take soil samples and identify the microbes under a microscope in his lab. While this isn't directly applicable to the role at ENGEO, I wanted to mention it so can get a glimpse of my desire to learn and practice scientific methods. 
+
+My combination of construction experience and technical expertise provides a strong foundation for this role. I understand the critical importance of precise measurements and detailed documentation in construction, and I am eager to apply these skills in a new context. I am prepared to complete all necessary certifications, including the Nuclear Density Gauge certification, and am particularly interested in pursuing additional Special Inspections qualifications through your cross-training program.
 
 I appreciate your consideration and look forward to discussing how my background and enthusiasm for professional growth align with ENGEO's needs.
 
 Sincerely,
-Kelsy Sparling
+Kelsy T. Sparling

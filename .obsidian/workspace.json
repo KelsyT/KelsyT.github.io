@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -222,11 +223,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "437da9506a6eed16",
+  "active": "0682775de2602a13",
   "lastOpenFiles": [
+    "Jobs/tailored-resume.md",
     "Jobs/cover-letter.md",
     "cover-letter-feedback.md",
-    "Jobs/tailored-resume.md",
     "PACER.md",
     "Resignation letter at shyft.md",
     "Estate Notes.md",
